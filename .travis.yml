@@ -1,2 +1,4 @@
 language: java
 install: true
+before_install:
+  - cd java
