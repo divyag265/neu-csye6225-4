@@ -2,4 +2,4 @@ language: java
 install: true
 before_install:
   - cd java
-sudo: true
+sudo: required
