@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+
+<div class="page-header" ng-init="init()">
+	<div ng-show="{{error}}">
+		{{message}}
+	</div>
+	<div class="table-responsive">
+		<table class="table table-hover">
+			<tr class="table-heading">
+				<th>Order Id</th>
+				<th>Product Id</th>
+				<th>Product Name</th>
+				<th>Price</th>
+				<th>Total</th>
+				<th>Status</th>
+				
+			</tr>
+			<tr ng-repeat="orderitem in orderitems">
+				<td>{{orderitem.orderId}}</td>
+				<td>{{orderitem.productId}}</td>
+				<td>{{orderitem.name}}</td>
+				<td>{{orderitem.price}}</td>
+				<td>{{orderitem.total}}</td>
+				<td>{{orderitem.status}}</td>
+				
+				<td><a ng-click="markShipped({id:product})"
+					class="btn btn-primary"> Ship </a></td>
+				
+			</tr>
+		</table>
+	</div>
+</div>
+</body>
+</html>
