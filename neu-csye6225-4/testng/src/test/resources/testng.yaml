@@ -1,7 +1,0 @@
-name: BinarySearchSuite
-threadCount: 4
- 
-tests:
-  - name: FindValue
-    classes:
-      - testng.BinarySearchTest
