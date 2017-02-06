@@ -1,4 +1,4 @@
-#Assignment 1: Design Document 
+#Design Document 
 ###Team Members:
 Sno. | Name | Email
 ---- | ------------ | -------------
