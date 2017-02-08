@@ -25,5 +25,10 @@ Sno. | Name | Email
 ###Link to TravisCI setup.
 https://travis-ci.com/divyag265/neu-csye6225-4/jobs/63410749/config
 
+
+###Domain Name.
+neu-csye6225-spring2017-team-6.com.
+
+
 ###Link to IAM console.
 https://neu-csye6225-spring2017-team-6.signin.aws.amazon.com/console
