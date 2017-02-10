@@ -1,4 +1,4 @@
-aws ec2 run-instances --image-id ami-49c9295f --count 1 --instance-type t2.micro --associate-public-ip-address --block-device-mappings '[{"DeviceName":"/dev/sdb","Ebs":{"VolumeSize":10,"DeleteOnTermination":true,"VolumeType":"standard"}}]' --key-name MyKey
+aws ec2 run-instances --image-id ami-49c9295f --count 1 --instance-type t2.micro --associate-public-ip-address --enable-api-termination --block-device-mappings '[{"DeviceName":"/dev/sdb","Ebs":{"VolumeSize":10,"DeleteOnTermination":true,"VolumeType":"standard"}}]' --key-name MyKey
 echo -n "\n\n\n\n Sleeping for 20 seconds"
 sleep 2 
 echo -n "." 
