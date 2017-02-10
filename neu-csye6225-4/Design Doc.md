@@ -17,6 +17,10 @@ Sno. | Name | Email
 •	Gradle
 •	Testng boot client
 
+###Instructions to build and de[loy web aplication:
+1.	Copy the application’s directory from its location into $CATALINA_HOME\webapps directory.
+2.	Restart the server, the application is deployed with the context path is name of the directory you copied
+
 ###Instructions to run unit and/or integration tests:
 1.	All tests are written in Employeedirectorytests.java
 2.	Run the application using gradle.
