@@ -1,7 +1,7 @@
 # neu-csye6225-4
 Cloud Computing- Team-6
 
-#Assignment 2
+#Design Document
 
 ###Team Members:
 Sno. | Name | Email
