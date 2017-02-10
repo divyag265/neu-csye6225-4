@@ -57,5 +57,15 @@ https://neu-csye6225-spring2017-team-6.signin.aws.amazon.com/console
 •	Created billing alarm so that team members are notified if AWS usage exceeds $25/month.
 
 ###EC2 instance creation
+Created a shell script to create EC@ instance with following configuration
+1. Amazon Machine Image (AMI): Ubuntu Server 14.04 LTS (HVM), SSD Volume Type - ami-5ac2cd4d
+2. Instance Type: t2.micro
+3. Subnet: us-east-1e
+4. Auto-assign Public IP: Yes
+5. Protect against accidental termination: Enabled
+6. Root Volume Size: 10
+7. Root Volume Type: Magnetic
+8. Configure Security group to allow SSH (port 22), HTTP (port 80) and HTTPS (port 443) traffic on TCP protocol on their respective default ports from anywhere in the world.
 
-###Route53 with a type A record set to ec2.neu-csye6225-spring2017-team-6.com
+###Route53 with a type A record 
+Created A record of ec2.neu-csye6225-spring2017-team-6.com pointing to public IP address with TTL of 300.
