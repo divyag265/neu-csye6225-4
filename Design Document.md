@@ -17,6 +17,10 @@ Sno. | Name | Email
 •	Gradle
 •	Testng boot client
 
+###Instructions to build and deploy web aplication:
+1.	Copy the application’s directory from its location into $CATALINA_HOME\webapps directory.
+2.	Restart the server, the application is deployed with the context path is name of the directory you copied
+
 ###Instructions to run unit and/or integration tests:
 1.	All tests are written in Employeeirectorytests.java
 2.	Run the application using gradle.
@@ -32,3 +36,13 @@ neu-csye6225-spring2017-team-6.com.
 
 ###Link to IAM console.
 https://neu-csye6225-spring2017-team-6.signin.aws.amazon.com/console
+
+###IAM Users:
+•	Graders are instructor and ta.
+•	Admins are our team memebers.
+
+###Billing alarm has been set.
+
+###EC2 instance has been created.
+
+###Route53 with a type A record set to ec2.neu-csye6225-spring2017-team-6.com
