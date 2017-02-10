@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<!-- Generated Dec 9, 2016 12:13:39 AM by Hibernate Tools 5.1.0.CR1 -->
+<hibernate-mapping>
+    <class name="neu.edu.Entity.Orderitem" table="orderitem" catalog="bestbuy" optimistic-lock="version">
+        <id name="orderItemId" type="java.lang.Integer">
+            <column name="orderItemId" />
+            <generator class="identity" />
+        </id>
+        <many-to-one name="order" class="neu.edu.Entity.Order" cascade="all" fetch="select">
+            <column name="orderId" />
+        </many-to-one>
+        <many-to-one name="product" class="neu.edu.Entity.Product" cascade="all" fetch="select">
+            <column name="productId" />
+        </many-to-one>
+        <property name="quantityOrdered" type="java.lang.Integer">
+            <column name="quantityOrdered" />
+        </property>
+        <property name="total" type="java.lang.Float">
+            <column name="Total" precision="12" scale="0" />
+        </property>
+        <property name="status" type="string">
+            <column name="status" length="45" />
+        </property>
+    </class>
+</hibernate-mapping>

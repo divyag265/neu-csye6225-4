@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<!-- Generated Dec 9, 2016 12:13:39 AM by Hibernate Tools 5.1.0.CR1 -->
+<hibernate-mapping>
+    <class name="neu.edu.Entity.User" table="user" catalog="bestbuy" optimistic-lock="version">
+        <id name="userId" type="java.lang.Integer">
+            <column name="userId" />
+            <generator class="identity" />
+        </id>
+        <property name="userName" type="string">
+            <column name="userName" length="45" />
+        </property>
+        <property name="password" type="string">
+            <column name="password" length="45" />
+        </property>
+        <property name="email" type="string">
+            <column name="email" length="45" />
+        </property>
+        <property name="streetAddress" type="string">
+            <column name="streetAddress" length="45" />
+        </property>
+        <property name="city" type="string">
+            <column name="city" length="45" />
+        </property>
+        <property name="state" type="string">
+            <column name="State" length="45" />
+        </property>
+        <property name="role" type="string">
+            <column name="Role" length="45" />
+        </property>
+        <property name="name" type="string">
+            <column name="Name" length="45" />
+        </property>
+        <one-to-one name="seller" class="neu.edu.Entity.Seller" cascade="save-update"></one-to-one>
+        <one-to-one name="admin" class="neu.edu.Entity.Admin" cascade="save-update"></one-to-one>
+        <one-to-one name="customer" class="neu.edu.Entity.Customer" cascade="save-update"></one-to-one>
+    </class>
+</hibernate-mapping>
