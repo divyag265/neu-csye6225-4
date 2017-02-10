@@ -56,8 +56,7 @@ https://neu-csye6225-spring2017-team-6.signin.aws.amazon.com/console
 ###Billing alarm
 •	Created billing alarm so that team members are notified if AWS usage exceeds $25/month.
 
-###EC2 instance creation
-Created a shell script to create EC@ instance with following configuration
+###EC2 instance creation via shell script with following configuration
 1.	Amazon Machine Image (AMI): Ubuntu Server 14.04 LTS (HVM), SSD Volume Type - ami-5ac2cd4d
 2. 	Instance Type: t2.micro
 3. 	Subnet: us-east-1e
