@@ -41,8 +41,8 @@ neu-csye6225-spring2017-team-6.com.
 https://neu-csye6225-spring2017-team-6.signin.aws.amazon.com/console
 
 ###IAM Users:
-•	Created Graders group for instructor and ta and gave READ ONLY permission.
-•	Created Admins group for our team memebers and gave full access for it.
+1.	Created Graders group for instructor and ta and gave READ ONLY permission.
+2.	Created Admins group for our team memebers and gave full access for it.
 
 ###Billing alarm
 •	Created billing alarm so that team members are notified if AWS usage exceeds $25/month.
