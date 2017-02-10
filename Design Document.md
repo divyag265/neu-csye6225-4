@@ -34,8 +34,8 @@ https://travis-ci.com/divyag265/neu-csye6225-4/jobs/63410749/config
 neu-csye6225-spring2017-team-6.com.
 
 ###Step to Create a public hosted zone using Amazon Route 53.
-1.  Configure Namecheap to use custom nameservers provided by Amazon Route 53.
-2.  Create a type A record for your domain with TTL of 1 minute. Type A record should point to IP address 127.0.0.1.
+1.  Configured Namecheap to use custom nameservers provided by Amazon Route 53.
+2.  Created a type A record for your domain with TTL of 1 minute. Type A record should point to IP address 127.0.0.1.
 
 ###Link to IAM console.
 https://neu-csye6225-spring2017-team-6.signin.aws.amazon.com/console
