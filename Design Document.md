@@ -18,8 +18,17 @@ Sno. | Name | Email
 •	Testng boot client
 
 ###Instructions to build and deploy web aplication:
-1.	Copy the application’s directory from its location into $CATALINA_HOME\webapps directory.
-2.	Restart the server, the application is deployed with the context path is name of the directory you copied
+1.  Clone the repository from GitHub:
+
+		$ git clone git://github.com/SpringSource/greenhouse.git
+2. Navigate into the cloned repository directory:
+
+		$ cd
+3. The project uses [Maven](http://maven.apache.org/) to build:
+
+		$ mvn clean install
+4.	Copy the application’s directory from its location into $CATALINA_HOME\webapps directory.
+5.	Restart the server, the application is deployed with the context path is name of the directory you copied
 
 ###Instructions to run unit and/or integration tests:
 1.	All tests are written in Employeeirectorytests.java
