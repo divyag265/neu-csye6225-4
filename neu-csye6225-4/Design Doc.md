@@ -18,7 +18,7 @@ Sno. | Name | Email
 •	Testng boot client
 
 ###Instructions to run unit and/or integration tests:
-1.	All tests are written in Employeeirectorytests.java
+1.	All tests are written in Employeedirectorytests.java
 2.	Run the application using gradle.
 3.	Use testNG to run the tests locally.
 
@@ -32,3 +32,13 @@ neu-csye6225-spring2017-team-6.com.
 
 ###Link to IAM console.
 https://neu-csye6225-spring2017-team-6.signin.aws.amazon.com/console
+
+###IAM Users:
+•	Graders are instructor and ta.
+•	Admins are our team memebers.
+
+###Billing alarm has been set.
+
+###EC2 instance has been created.
+
+###Route53 with a type A record set to ec2.neu-csye6225-spring2017-team-6.com
