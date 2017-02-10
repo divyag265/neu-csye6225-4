@@ -41,11 +41,12 @@ neu-csye6225-spring2017-team-6.com.
 https://neu-csye6225-spring2017-team-6.signin.aws.amazon.com/console
 
 ###IAM Users:
-•	Graders are instructor and ta.
-•	Admins are our team memebers.
+•	Created Graders group for instructor and ta and gave READ ONLY permission.
+•	Created Admins group for our team memebers and gave full access for it.
 
-###Billing alarm has been set.
+###Billing alarm
+•	Created billing alarm so that team members are notified if AWS usage exceeds $25/month.
 
-###EC2 instance has been created.
+###EC2 instance creation
 
 ###Route53 with a type A record set to ec2.neu-csye6225-spring2017-team-6.com
