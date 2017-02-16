@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+
+<div class='container'>
+	<div class='panel panel-primary dialog-panel'>
+		<div class='panel-heading'>
+			<h5>Add Seller</h5>
+		</div>
+		<div class='panel-body'>
+			<form class='form-horizontal' role='form'>
+				<div class="form-group">
+
+					<div ng-show="sellerCtrl.error" align="center"
+						class="col-sm-offset-2 col-sm-2 alert alert-danger">{{sellerCtrl.message}}</div>
+
+				</div>
+				<div class='form-group'>
+					<label class='control-label col-md-2 col-md-offset-2'
+						for='name'>Name</label>
+					<div class='col-md-6'>
+						<div class='form-group'>
+							<div class='col-md-11'>
+								<input class='form-control' id='name'
+									placeholder='FullName' ng-model="sellerCtrl.addSeller.name"
+									type='text' >
+							</div>
+						</div>
+					</div>
+					
+				</div>
+				<div class='form-group'>
+					<label class='control-label col-md-2 col-md-offset-2'
+						for='userName'>Username</label>
+					<div class='col-md-6'>
+						<div class='form-group'>
+							<div class='col-md-11'>
+								<input class='form-control' id='userName'
+									placeholder='Username' ng-model="sellerCtrl.addSeller.userName"
+									type='text' required>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class='form-group'>
+					<label class='control-label col-md-2 col-md-offset-2'
+						for='password'>Password</label>
+					<div class='col-md-6'>
+						<div class='form-group'>
+							<div class='col-md-11'>
+								<input class='form-control' id='password'
+									placeholder='Password' ng-model="sellerCtrl.addSeller.password"
+									type='password' required>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class='form-group'>
+					<label class='control-label col-md-2 col-md-offset-2'
+						for='email'>Email</label>
+					<div class='col-md-6'>
+						<div class='form-group'>
+							<div class='col-md-11'>
+								<input class='form-control' id='email' placeholder='E-mail'
+									ng-model="sellerCtrl.addSeller.email" type='email' required>
+							</div>
+						</div>						
+					</div>
+				</div>
+				
+				<div class='form-group'>
+					<label class='control-label col-md-2 col-md-offset-2'
+						for='streetAddress'>Street Address</label>
+					<div class='col-md-6'>
+						<div class='form-group'>
+							<div class='col-md-11'>
+								<input class='form-control' id='streetAddress'
+									placeholder='Street Address' ng-model="sellerCtrl.addSeller.streetAddress"
+									type='text' required>
+							</div>
+						</div>
+					</div>
+				</div>
+				
+				<div class='form-group'>
+					<label class='control-label col-md-2 col-md-offset-2'
+						for='city'>City</label>
+					<div class='col-md-6'>
+						<div class='form-group'>
+							<div class='col-md-11'>
+								<input class='form-control' id='city'
+									placeholder='City' ng-model="sellerCtrl.addSeller.city"
+									type='text' required>
+							</div>
+						</div>
+					</div>
+				</div>
+				
+				<div class='form-group'>
+					<label class='control-label col-md-2 col-md-offset-2'
+						for='state'>State</label>
+					<div class='col-md-6'>
+						<div class='form-group'>
+							<div class='col-md-11'>
+								<input class='form-control' id='state'
+									placeholder='State' ng-model="sellerCtrl.addSeller.state"
+									type='text' required>
+							</div>
+						</div>
+					</div>
+				</div>
+				
+				<div class='form-group'>
+					<label class='control-label col-md-2 col-md-offset-2'
+						for='company'>Company</label>
+					<div class='col-md-6'>
+						<div class='form-group'>
+							<div class='col-md-11'>
+								<input class='form-control' id='company'
+									placeholder='Company' ng-model="sellerCtrl.addSeller.company"
+									type='text' required>
+							</div>
+						</div>
+					</div>
+				</div>
+
+				<div class='form-group'>
+					<div class='col-md-offset-4 col-md-3'>
+						<button class='btn btn-primary' ng-click="sellerCtrl.sellerReg()"
+							type='submit'>Add Seller</button>
+					</div>
+					<div class='col-md-3'>
+						<button class='btn btn-danger' ng-click="sellerCtrl.cancel()"
+							style='float: right' type='submit'>Cancel</button>
+					</div>
+				</div>
+			</form>
+		</div>
+	</div>
+</div>
+
+</body>
+</html>
