@@ -1,7 +1,11 @@
 # neu-csye6225-4
 Cloud Computing- Team-6
 
+<<<<<<< HEAD
 ###Assignment 5: README 
+=======
+#README File
+>>>>>>> master
 
 ###Team Members:
 Sno. | Name | Email
@@ -12,6 +16,13 @@ Sno. | Name | Email
 4 | Mayank kumar Choudhary | choudhary.m@husky.neu.edu
 
 ###Prerequisites:
+<<<<<<< HEAD
+=======
+•	Eclipse Oxygen
+•	STS 3.83
+•	Gradle
+•	Testng boot client
+>>>>>>> master
 •	Sublime Text
 
 ###Instructions to build and deploy web aplication:
@@ -34,7 +45,47 @@ Sno. | Name | Email
 2.	Run the application using gradle.
 3.	Use testNG to run the tests locally.
 
+<<<<<<< HEAD
 ###E-Commerce Web Application 
 1. Created an e-commerce website for users to login/logout into their account 
 2. Provided the functionality of browsing and searching and view product.
 
+=======
+###Link to TravisCI setup.
+https://travis-ci.com/divyag265/neu-csye6225-4/jobs/63410749/config
+
+
+###Domain Name.
+neu-csye6225-spring2017-team-6.com.
+
+###Step to Create a public hosted zone using Amazon Route 53.
+1.  Configured Namecheap to use custom nameservers provided by Amazon Route 53.
+2.  Created a type A record for your domain with TTL of 1 minute. Type A record should point to IP address 127.0.0.1.
+
+###Link to IAM console.
+https://neu-csye6225-spring2017-team-6.signin.aws.amazon.com/console
+
+###IAM Users:
+1.	Created Graders group for instructor and ta and gave READ ONLY permission.
+2.	Created Admins group for our team memebers and gave full access for it.
+
+###Billing alarm
+•	Created billing alarm so that team members are notified if AWS usage exceeds $25/month.
+
+###EC2 instance creation via shell script with following configuration
+1.	Amazon Machine Image (AMI): Ubuntu Server 14.04 LTS (HVM), SSD Volume Type - ami-5ac2cd4d
+2. 	Instance Type: t2.micro
+3. 	Subnet: us-east-1e
+4.	Auto-assign Public IP: Yes
+5. 	Protect against accidental termination: Enabled
+6. 	Root Volume Size: 10
+7. 	Root Volume Type: Magnetic
+8.	 Configure Security group to allow SSH (port 22), HTTP (port 80) and HTTPS (port 443) traffic on TCP protocol on their respective default ports from anywhere in the world.
+
+###Route53 with a type A record 
+Created A record of ec2.neu-csye6225-spring2017-team-6.com pointing to public IP address with TTL of 300.
+
+###E-Commerce Web Application 
+1. Created an e-commerce website for users to login/logout into their account 
+2. Provided the functionality of browsing and searching and viewing product
+>>>>>>> master
