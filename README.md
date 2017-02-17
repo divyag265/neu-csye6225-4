@@ -16,6 +16,7 @@ Sno. | Name | Email
 •	STS 3.83
 •	Gradle
 •	Testng boot client
+•	Sublime Text
 
 ###Instructions to build and deploy web aplication:
 1.      Clone the repository from GitHub:
