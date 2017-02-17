@@ -6,23 +6,19 @@ Sno. | Name | Email
 2 | Rakshitha Balakrishna | balakrishna.r@husky.neu.edu
 3 | Divya Gawade | gawade.d@husky.neu.edu
 4 | Mayank kumar Choudhary | choudhary.m@husky.neu.edu
-###Objective:
-####To create an application similar to Best Buy which has 3 roles: Admin, Seller and Customer. Customer can Browse Catalog, Order & Checkout, View Order History & Details. Seller can add, ship and delete products. Admin can add and remove sellers.
-###Functionalities:
-1.	Login/Logout
-2.	Add/Delete Products
-3.	Add to cart/Checkout
-4.	Browse/Search Products
-5.	Browse/Search Sellers
-6.	Account management
-7.	Session Management
+###E-Commerce Web Application 
+
+•Created an e-commerce website for users to login/logout into their account 
+•Provided the functinality of browsing and searchin prodcut and add items to the cart
+estate website for renting, selling and buying functionalities on Apache Tomcat server
+ Used Annotation, Spring Web architecture, Hibernate, ORM, AJAX, REST, Hibernate Validator, Spring Security
+ Validated a filter to sanitize input for JavaScript and jQuery injection on client as well as server side
 
 ###Tools and Languages:
-•	Spring MVC
+•	NodeJS
 •	AngularJS
 •	Bootstrap, CSS, HTML5
-•	REST
 •	AJAX
 •	JavaScript
-•	NoSQL and RDBMS
+•	MongoDB
 •	Amazon S3 for storing images
