@@ -6,10 +6,10 @@ Sno. | Name | Email
 2 | Rakshitha Balakrishna | balakrishna.r@husky.neu.edu
 3 | Divya Gawade | gawade.d@husky.neu.edu
 4 | Mayank kumar Choudhary | choudhary.m@husky.neu.edu
-###E-Commerce Web Application 
 
-•Created an e-commerce website for users to login/logout into their account 
-•Provided the functionality of browsing and searching product and add items to the cart
+###E-Commerce Web Application 
+1. Created an e-commerce website for users to login/logout into their account 
+2. Provided the functionality of browsing and searching product and add items to the cart
 
 ### Web Technologies 
 •	NodeJS
