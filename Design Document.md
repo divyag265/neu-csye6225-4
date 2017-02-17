@@ -1,4 +1,4 @@
-#Design Document:
+#Design Document 
 ###Team Members:
 Sno. | Name | Email
 ---- | ------------ | -------------
@@ -6,17 +6,23 @@ Sno. | Name | Email
 2 | Rakshitha Balakrishna | balakrishna.r@husky.neu.edu
 3 | Divya Gawade | gawade.d@husky.neu.edu
 4 | Mayank kumar Choudhary | choudhary.m@husky.neu.edu
+###Objective:
+####To create an application similar to Best Buy which has 3 roles: Admin, Seller and Customer. Customer can Browse Catalog, Order & Checkout, View Order History & Details. Seller can add, ship and delete products. Admin can add and remove sellers.
+###Functionalities:
+1.	Login/Logout
+2.	Add/Delete Products
+3.	Add to cart/Checkout
+4.	Browse/Search Products
+5.	Browse/Search Sellers
+6.	Account management
+7.	Session Management
 
-###E-Commerce Web Application 
-1. Created an e-commerce website for users to login/logout into their account 
-2. Provided the functionality of browsing and searching product and add items to the cart
-
-### Web Technologies 
-•	NodeJS
-• ngularJS
+###Tools and Languages:
+•	Spring MVC
+•	AngularJS
 •	Bootstrap, CSS, HTML5
+•	REST
 •	AJAX
 •	JavaScript
-###Database/Stoge:
-•	MongoDB
+•	NoSQL and RDBMS
 •	Amazon S3 for storing images
