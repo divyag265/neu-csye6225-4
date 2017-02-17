@@ -71,3 +71,7 @@ https://neu-csye6225-spring2017-team-6.signin.aws.amazon.com/console
 
 ###Route53 with a type A record 
 Created A record of ec2.neu-csye6225-spring2017-team-6.com pointing to public IP address with TTL of 300.
+
+###E-Commerce Web Application 
+1. Created an e-commerce website for users to login/logout into their account 
+2. Provided the functionality of browsing and searching and viewing product
