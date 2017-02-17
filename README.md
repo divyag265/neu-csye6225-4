@@ -1,11 +1,7 @@
 # neu-csye6225-4
 Cloud Computing- Team-6
 
-<<<<<<< HEAD
-###Assignment 5: README 
-=======
 #README File
->>>>>>> master
 
 ###Team Members:
 Sno. | Name | Email
@@ -16,13 +12,10 @@ Sno. | Name | Email
 4 | Mayank kumar Choudhary | choudhary.m@husky.neu.edu
 
 ###Prerequisites:
-<<<<<<< HEAD
-=======
 •	Eclipse Oxygen
 •	STS 3.83
 •	Gradle
 •	Testng boot client
->>>>>>> master
 •	Sublime Text
 
 ###Instructions to build and deploy web aplication:
@@ -45,12 +38,6 @@ Sno. | Name | Email
 2.	Run the application using gradle.
 3.	Use testNG to run the tests locally.
 
-<<<<<<< HEAD
-###E-Commerce Web Application 
-1. Created an e-commerce website for users to login/logout into their account 
-2. Provided the functionality of browsing and searching and view product.
-
-=======
 ###Link to TravisCI setup.
 https://travis-ci.com/divyag265/neu-csye6225-4/jobs/63410749/config
 
@@ -88,4 +75,3 @@ Created A record of ec2.neu-csye6225-spring2017-team-6.com pointing to public IP
 ###E-Commerce Web Application 
 1. Created an e-commerce website for users to login/logout into their account 
 2. Provided the functionality of browsing and searching and viewing product
->>>>>>> master
