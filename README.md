@@ -1,7 +1,7 @@
 # neu-csye6225-4
 Cloud Computing- Team-6
 
-#Design Document
+#README File
 
 ###Team Members:
 Sno. | Name | Email
