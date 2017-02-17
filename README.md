@@ -17,7 +17,7 @@ Sno. | Name | Email
 
 ### Web Technologies 
 •	NodeJS
-• ngularJS
+• angularJS
 •	Bootstrap, CSS, HTML5
 •	AJAX
 •	JavaScript
