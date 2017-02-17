@@ -9,16 +9,14 @@ Sno. | Name | Email
 ###E-Commerce Web Application 
 
 •Created an e-commerce website for users to login/logout into their account 
-•Provided the functinality of browsing and searchin prodcut and add items to the cart
-estate website for renting, selling and buying functionalities on Apache Tomcat server
- Used Annotation, Spring Web architecture, Hibernate, ORM, AJAX, REST, Hibernate Validator, Spring Security
- Validated a filter to sanitize input for JavaScript and jQuery injection on client as well as server side
+•Provided the functionality of browsing and searching product and add items to the cart
 
-###Tools and Languages:
+### Web Technologies 
 •	NodeJS
-•	AngularJS
+• ngularJS
 •	Bootstrap, CSS, HTML5
 •	AJAX
 •	JavaScript
+###Database/Stoge:
 •	MongoDB
 •	Amazon S3 for storing images
