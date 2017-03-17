@@ -1,9 +1,3 @@
-<<<<<<< HEAD
 language: java
 install: true
 sudo: true
-=======
-language: java
-install: true
-sudo: true
->>>>>>> master
