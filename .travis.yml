@@ -1,3 +1,5 @@
 language: java
 install: true
 sudo: true
+script:
+  - ant -v -d test
