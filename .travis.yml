@@ -1,5 +1,5 @@
 language: java
-install: ant deps
 sudo: true
 script:
-  - ant -v -d test
+  - cd testng
+  - ./gradlew test
