@@ -25,18 +25,18 @@ Sno. | Name | Email
 2.      Navigate into the cloned repository directory:
 
 		$ cd
-3.      The project uses [Maven](http://maven.apache.org/) to build:
-
-		$ mvn clean install
-4.      Use Catalina homebase for all buiding purposes.
+3.      
+        This contains mean stack application.
+		$ mvn npm install
+4.      This will install the dependencies.
 5.      Gradle TestNG must be turned on for running the unit tests as well as integration tests.
 6.	Copy the application’s directory from its location into $CATALINA_HOME\webapps directory.
 7.	Restart the server, the application is deployed with the context path is name of the directory you copied
 
 ###Instructions to run unit and/or integration tests:
-1.	All tests are written in Employeeirectorytests.java
-2.	Run the application using gradle.
-3.	Use testNG to run the tests locally.
+1.	All tests are written in test directory
+2.	Run the application using nvm.
+3.	Run npm test to run the tests locally.
 
 ###Link to TravisCI setup.
 https://travis-ci.com/divyag265/neu-csye6225-4/jobs/63410749/config
@@ -47,7 +47,7 @@ neu-csye6225-spring2017-team-6.com.
 
 ###Step to Create a public hosted zone using Amazon Route 53.
 1.  Configured Namecheap to use custom nameservers provided by Amazon Route 53.
-2.  Created a type A record for your domain with TTL of 1 minute. Type A record should point to IP address 127.0.0.1.
+2.  Created a type A record for your domain with TTL of 1 minute. Type A record should point to IP address 127.0.0
 
 ###Link to IAM console.
 https://neu-csye6225-spring2017-team-6.signin.aws.amazon.com/console
@@ -72,6 +72,11 @@ https://neu-csye6225-spring2017-team-6.signin.aws.amazon.com/console
 ###Route53 with a type A record 
 Created A record of ec2.neu-csye6225-spring2017-team-6.com pointing to public IP address with TTL of 300.
 
-###E-Commerce Web Application 
-1. Created an e-commerce website for users to login/logout into their account 
-2. Provided the functionality of browsing and searching and viewing product
+###Restaurant application has been hosted on cloud
+All the scripts required for the setup has been uploaded to git.
+
+###Restaurant Web Application 
+1. Created an hotelnwebsite for users to login/logout into their account 
+2. Provided the functionality of browsing through the restaurants
+3. User can write and view other's reviews on restaurants.
+

@@ -6,9 +6,8 @@
             "Action": [
                 "s3:PutObject"
             ],
-            "Resource": [
-                "*"
-            ]
+            "Resource": "*"
+            
         }
     ]
 }
