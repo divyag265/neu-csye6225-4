@@ -1,0 +1,15 @@
+{
+    "Version": "2012-10-17",
+    "Statement": [
+        {
+            "Effect": "Allow",
+            "Action": [
+                "s3:PutObject"
+            ],
+            "Resource": "arn:aws:s3:::code-deploy.neu-csye6225-spring2017-team-2.com/*",
+            "Principal": {
+                "AWS": "arn:aws:iam::381691501957:root"
+            }
+        }
+    ]
+}
