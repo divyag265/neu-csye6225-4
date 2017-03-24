@@ -1,0 +1,1 @@
+aws dynamodb create-table --table-name csye6225 --provisioned-throughput ReadCapacityUnits=1,WriteCapacityUnits=1 --attribute-definitions AttributeName=ID,AttributeType=N --key-schema AttributeName=ID,KeyType=HASH
