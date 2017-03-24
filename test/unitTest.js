@@ -33,7 +33,7 @@ var params = {
    ReadCapacityUnits: 5, 
    WriteCapacityUnits: 5
   }, 
-  TableName: "Hotels"
+  TableName: "NaveenIsSoGreat"
  };
  DB.createTable(params, function(err, data) {
    if (err) console.log(err, err.stack);
@@ -41,7 +41,7 @@ var params = {
  });
 
 var params1 = {
-  TableName: "Hotels"
+  TableName: "NaveenIsSoGreat"
  };
  DB.describeTable(params1, function(err, data) {
    if (err) console.log(err, err.stack); // an error occurred
@@ -67,7 +67,7 @@ var params1 = {
     }
   }, 
   ReturnConsumedCapacity: "TOTAL", 
-  TableName: "Hotels"
+  TableName: "NaveenIsSoGreat"
  };
  DB.putItem(params2, function(err, data) {
    if (err) console.log(err, err.stack); // an error occurred
@@ -76,3 +76,4 @@ var params1 = {
 
 
 assert.equal(1,1);
+
