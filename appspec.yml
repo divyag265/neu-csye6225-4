@@ -1,21 +1,18 @@
 version: 0.0
 os: linux
 files:
-  - source: Config/config.txt
-    destination: /webapps/Config
-  - source: source
-    destination: /webapps/myApp
+  - source: index.html
+    destination: /var/www/html/hotelApplication/
+  - source: salt/
+    destination: /etc/hotelApplication/codedeploy/
 hooks:
   BeforeInstall:
-    - location: Scripts/UnzipResourceBundle.sh
-    - location: Scripts/UnzipDataBundle.sh
-  AfterInstall:
-    - location: Scripts/RunResourceTests.sh
-      timeout: 180
+    - location: deploy_hooks/before_install.sh
+    runas: root
   ApplicationStart:
-    - location: Scripts/RunFunctionalTests.sh
-      timeout: 3600
+    - location: deploy_hooks/application_start.sh
+      runas: root
   ValidateService:
-    - location: Scripts/MonitorService.sh
-      timeout: 3600
-      runas: codedeployuser
+    - location: deploy_hooks/verify_service.sh
+      runas: root
+
