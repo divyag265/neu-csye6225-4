@@ -1,0 +1,1259 @@
+[33m[nodemon] 1.11.0[39m
+[33m[nodemon] reading config /home/ubuntu/CLOUD PROJECT/neu-csye6225-4/nodemon.json[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] ignoring: /home/ubuntu/CLOUD PROJECT/neu-csye6225-4/.git/**/* .nyc_output .sass-cache bower_components coverage /home/ubuntu/CLOUD PROJECT/neu-csye6225-4/node_modules/**/* public/**/*[39m
+[33m[nodemon] watching: *.*[39m
+[33m[nodemon] watching extensions: js,json[39m
+[32m[nodemon] starting `node app.js`[39m
+[33m[nodemon] child pid: 13733[39m
+[33m[nodemon] exiting[39m
+events.js:163
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: EBADF: bad file descriptor, read
+Mongoose connected to mongodb://divya:1234@ds137760.mlab.com:37760/hotel_cloud
+GET /
+GET /css/custom.css
+GET /css/bootstrap.min.css
+GET /jquery/jquery-2.1.4.min.js
+GET /node_modules/angular/angular.js
+GET /node_modules/angular-route/angular-route.js
+GET /node_modules/angular-jwt/dist/angular-jwt.js
+GET /angular-app/app.js
+GET /angular-app/hotel-list/hotel-list-controller.js
+GET /angular-app/hotel-display/hotel-display-controller.js
+GET /angular-app/hotel-rating/hotel-rating-directive.js
+GET /angular-app/hotel-data-factory/hotel-data-factory.js
+GET /angular-app/register/register-controller.js
+GET /angular-app/navigation-directive/navigation-directive.js
+GET /angular-app/login/login-controller.js
+GET /angular-app/auth/auth-factory.js
+GET /angular-app/auth/auth-interceptor.js
+GET /angular-app/navigation-directive/navigation-directive.html
+GET /angular-app/main/main.html
+GET /
+GET /css/bootstrap.min.css
+GET /css/custom.css
+GET /jquery/jquery-2.1.4.min.js
+GET /node_modules/angular-jwt/dist/angular-jwt.js
+GET /node_modules/angular-route/angular-route.js
+GET /node_modules/angular/angular.js
+GET /angular-app/app.js
+GET /angular-app/hotel-list/hotel-list-controller.js
+GET /angular-app/hotel-display/hotel-display-controller.js
+GET /angular-app/hotel-data-factory/hotel-data-factory.js
+GET /angular-app/hotel-rating/hotel-rating-directive.js
+GET /angular-app/register/register-controller.js
+GET /angular-app/login/login-controller.js
+GET /angular-app/navigation-directive/navigation-directive.js
+GET /angular-app/auth/auth-factory.js
+GET /angular-app/auth/auth-interceptor.js
+GET /angular-app/navigation-directive/navigation-directive.html
+GET /angular-app/main/main.html
+GET /
+GET /css/bootstrap.min.css
+GET /css/custom.css
+GET /jquery/jquery-2.1.4.min.js
+GET /node_modules/angular/angular.js
+GET /node_modules/angular-jwt/dist/angular-jwt.js
+GET /node_modules/angular-route/angular-route.js
+GET /angular-app/hotel-list/hotel-list-controller.js
+GET /angular-app/app.js
+GET /angular-app/hotel-display/hotel-display-controller.js
+GET /angular-app/hotel-rating/hotel-rating-directive.js
+GET /angular-app/hotel-data-factory/hotel-data-factory.js
+GET /angular-app/register/register-controller.js
+GET /angular-app/login/login-controller.js
+GET /angular-app/navigation-directive/navigation-directive.js
+GET /angular-app/auth/auth-factory.js
+GET /angular-app/auth/auth-interceptor.js
+GET /angular-app/navigation-directive/navigation-directive.html
+GET /angular-app/main/main.html
+GET /
+GET /css/bootstrap.min.css
+GET /css/custom.css
+GET /node_modules/angular/angular.js
+GET /jquery/jquery-2.1.4.min.js
+GET /node_modules/angular-route/angular-route.js
+GET /node_modules/angular-jwt/dist/angular-jwt.js
+GET /angular-app/hotel-list/hotel-list-controller.js
+GET /angular-app/app.js
+GET /angular-app/hotel-display/hotel-display-controller.js
+GET /angular-app/hotel-rating/hotel-rating-directive.js
+GET /angular-app/hotel-data-factory/hotel-data-factory.js
+GET /angular-app/register/register-controller.js
+GET /angular-app/login/login-controller.js
+GET /angular-app/navigation-directive/navigation-directive.js
+GET /angular-app/auth/auth-factory.js
+GET /angular-app/auth/auth-interceptor.js
+GET /angular-app/navigation-directive/navigation-directive.html
+GET /angular-app/main/main.html
+Mongoose disconnected
+Mongoose disconnected through App termination (SIGTERM)
+[33m[nodemon] 1.11.0[39m
+[33m[nodemon] reading config /home/ubuntu/CLOUD PROJECT/neu-csye6225-4/nodemon.json[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] ignoring: /home/ubuntu/CLOUD PROJECT/neu-csye6225-4/.git/**/* .nyc_output .sass-cache bower_components coverage /home/ubuntu/CLOUD PROJECT/neu-csye6225-4/node_modules/**/* public/**/*[39m
+[33m[nodemon] watching: *.*[39m
+[33m[nodemon] watching extensions: js,json[39m
+[32m[nodemon] starting `node app.js`[39m
+[33m[nodemon] child pid: 13872[39m
+[33m[nodemon] exiting[39m
+events.js:163
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: EBADF: bad file descriptor, read
+Mongoose connected to mongodb://divya:1234@ds137760.mlab.com:37760/hotel_cloud
+GET /
+GET /css/bootstrap.min.css
+GET /css/custom.css
+GET /jquery/jquery-2.1.4.min.js
+GET /node_modules/angular-route/angular-route.js
+GET /node_modules/angular/angular.js
+GET /angular-app/app.js
+GET /node_modules/angular-jwt/dist/angular-jwt.js
+GET /angular-app/hotel-list/hotel-list-controller.js
+GET /angular-app/hotel-display/hotel-display-controller.js
+GET /angular-app/hotel-data-factory/hotel-data-factory.js
+GET /angular-app/hotel-rating/hotel-rating-directive.js
+GET /angular-app/register/register-controller.js
+GET /angular-app/navigation-directive/navigation-directive.js
+GET /angular-app/login/login-controller.js
+GET /angular-app/auth/auth-factory.js
+GET /angular-app/auth/auth-interceptor.js
+GET /angular-app/navigation-directive/navigation-directive.html
+GET /angular-app/main/main.html
+GET /
+GET /css/bootstrap.min.css
+GET /jquery/jquery-2.1.4.min.js
+GET /node_modules/angular/angular.js
+GET /css/custom.css
+GET /node_modules/angular-route/angular-route.js
+GET /node_modules/angular-jwt/dist/angular-jwt.js
+GET /angular-app/app.js
+GET /angular-app/hotel-list/hotel-list-controller.js
+GET /angular-app/hotel-display/hotel-display-controller.js
+GET /angular-app/register/register-controller.js
+GET /angular-app/hotel-data-factory/hotel-data-factory.js
+GET /angular-app/hotel-rating/hotel-rating-directive.js
+GET /angular-app/navigation-directive/navigation-directive.js
+GET /angular-app/login/login-controller.js
+GET /angular-app/auth/auth-factory.js
+GET /angular-app/auth/auth-interceptor.js
+GET /angular-app/main/main.html
+GET /angular-app/navigation-directive/navigation-directive.html
+Mongoose disconnected
+Mongoose disconnected through App termination (SIGTERM)
+[33m[nodemon] 1.11.0[39m
+[33m[nodemon] reading config /home/ubuntu/CLOUD PROJECT/neu-csye6225-4/nodemon.json[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] ignoring: /home/ubuntu/CLOUD PROJECT/neu-csye6225-4/.git/**/* .nyc_output .sass-cache bower_components coverage /home/ubuntu/CLOUD PROJECT/neu-csye6225-4/node_modules/**/* public/**/*[39m
+[33m[nodemon] watching: *.*[39m
+[33m[nodemon] watching extensions: js,json[39m
+[32m[nodemon] starting `node app.js`[39m
+[33m[nodemon] child pid: 14040[39m
+[33m[nodemon] exiting[39m
+events.js:163
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: EBADF: bad file descriptor, read
+Mongoose connected to mongodb://divya:1234@ds137760.mlab.com:37760/hotel_cloud
+GET /
+GET /css/bootstrap.min.css
+GET /jquery/jquery-2.1.4.min.js
+GET /css/custom.css
+GET /node_modules/angular/angular.js
+GET /node_modules/angular-route/angular-route.js
+GET /node_modules/angular-jwt/dist/angular-jwt.js
+GET /angular-app/app.js
+GET /angular-app/hotel-list/hotel-list-controller.js
+GET /angular-app/hotel-data-factory/hotel-data-factory.js
+GET /angular-app/hotel-display/hotel-display-controller.js
+GET /angular-app/hotel-rating/hotel-rating-directive.js
+GET /angular-app/register/register-controller.js
+GET /angular-app/navigation-directive/navigation-directive.js
+GET /angular-app/login/login-controller.js
+GET /angular-app/auth/auth-factory.js
+GET /angular-app/auth/auth-interceptor.js
+GET /angular-app/navigation-directive/navigation-directive.html
+GET /angular-app/main/main.html
+GET /
+GET /css/bootstrap.min.css
+GET /css/custom.css
+GET /node_modules/angular-route/angular-route.js
+GET /jquery/jquery-2.1.4.min.js
+GET /node_modules/angular/angular.js
+GET /node_modules/angular-jwt/dist/angular-jwt.js
+GET /angular-app/app.js
+GET /angular-app/hotel-list/hotel-list-controller.js
+GET /angular-app/hotel-display/hotel-display-controller.js
+GET /angular-app/hotel-data-factory/hotel-data-factory.js
+GET /angular-app/register/register-controller.js
+GET /angular-app/hotel-rating/hotel-rating-directive.js
+GET /angular-app/navigation-directive/navigation-directive.js
+GET /angular-app/login/login-controller.js
+GET /angular-app/auth/auth-factory.js
+GET /angular-app/auth/auth-interceptor.js
+GET /angular-app/navigation-directive/navigation-directive.html
+GET /angular-app/main/main.html
+GET /
+GET /css/custom.css
+GET /jquery/jquery-2.1.4.min.js
+GET /css/bootstrap.min.css
+GET /node_modules/angular-jwt/dist/angular-jwt.js
+GET /node_modules/angular-route/angular-route.js
+GET /node_modules/angular/angular.js
+GET /angular-app/app.js
+GET /angular-app/hotel-display/hotel-display-controller.js
+GET /angular-app/hotel-list/hotel-list-controller.js
+GET /angular-app/hotel-data-factory/hotel-data-factory.js
+GET /angular-app/register/register-controller.js
+GET /angular-app/hotel-rating/hotel-rating-directive.js
+GET /angular-app/navigation-directive/navigation-directive.js
+GET /angular-app/login/login-controller.js
+GET /angular-app/auth/auth-factory.js
+GET /angular-app/auth/auth-interceptor.js
+GET /angular-app/navigation-directive/navigation-directive.html
+GET /angular-app/main/main.html
+GET /
+GET /css/bootstrap.min.css
+GET /css/custom.css
+GET /angular-app/app.js
+GET /node_modules/angular/angular.js
+GET /jquery/jquery-2.1.4.min.js
+GET /node_modules/angular-route/angular-route.js
+GET /node_modules/angular-jwt/dist/angular-jwt.js
+GET /angular-app/hotel-list/hotel-list-controller.js
+GET /angular-app/hotel-display/hotel-display-controller.js
+GET /angular-app/hotel-data-factory/hotel-data-factory.js
+GET /angular-app/hotel-rating/hotel-rating-directive.js
+GET /angular-app/register/register-controller.js
+GET /angular-app/navigation-directive/navigation-directive.js
+GET /angular-app/login/login-controller.js
+GET /angular-app/auth/auth-factory.js
+GET /angular-app/auth/auth-interceptor.js
+GET /angular-app/navigation-directive/navigation-directive.html
+GET /angular-app/main/main.html
+GET /
+GET /css/bootstrap.min.css
+GET /css/custom.css
+GET /jquery/jquery-2.1.4.min.js
+GET /node_modules/angular-route/angular-route.js
+GET /node_modules/angular/angular.js
+GET /node_modules/angular-jwt/dist/angular-jwt.js
+GET /angular-app/app.js
+GET /angular-app/hotel-list/hotel-list-controller.js
+GET /angular-app/hotel-display/hotel-display-controller.js
+GET /angular-app/hotel-data-factory/hotel-data-factory.js
+GET /angular-app/hotel-rating/hotel-rating-directive.js
+GET /angular-app/register/register-controller.js
+GET /angular-app/navigation-directive/navigation-directive.js
+GET /angular-app/login/login-controller.js
+GET /angular-app/auth/auth-factory.js
+GET /angular-app/auth/auth-interceptor.js
+GET /angular-app/navigation-directive/navigation-directive.html
+GET /angular-app/main/main.html
+GET /
+GET /css/custom.css
+GET /css/bootstrap.min.css
+GET /node_modules/angular-route/angular-route.js
+GET /jquery/jquery-2.1.4.min.js
+GET /node_modules/angular/angular.js
+GET /node_modules/angular-jwt/dist/angular-jwt.js
+GET /angular-app/app.js
+GET /angular-app/hotel-list/hotel-list-controller.js
+GET /angular-app/hotel-data-factory/hotel-data-factory.js
+GET /angular-app/hotel-display/hotel-display-controller.js
+GET /angular-app/hotel-rating/hotel-rating-directive.js
+GET /angular-app/register/register-controller.js
+GET /angular-app/navigation-directive/navigation-directive.js
+GET /angular-app/login/login-controller.js
+GET /angular-app/auth/auth-factory.js
+GET /angular-app/auth/auth-interceptor.js
+GET /angular-app/navigation-directive/navigation-directive.html
+GET /angular-app/main/main.html
+GET /
+GET /css/bootstrap.min.css
+GET /css/custom.css
+GET /jquery/jquery-2.1.4.min.js
+GET /node_modules/angular/angular.js
+GET /angular-app/app.js
+GET /angular-app/hotel-list/hotel-list-controller.js
+GET /node_modules/angular-route/angular-route.js
+GET /node_modules/angular-jwt/dist/angular-jwt.js
+GET /angular-app/hotel-display/hotel-display-controller.js
+GET /angular-app/hotel-data-factory/hotel-data-factory.js
+GET /angular-app/navigation-directive/navigation-directive.js
+GET /angular-app/hotel-rating/hotel-rating-directive.js
+GET /angular-app/register/register-controller.js
+GET /angular-app/login/login-controller.js
+GET /angular-app/auth/auth-factory.js
+GET /angular-app/auth/auth-interceptor.js
+GET /angular-app/navigation-directive/navigation-directive.html
+GET /angular-app/main/main.html
+GET /favicon.ico
+GET /
+GET /css/custom.css
+GET /css/bootstrap.min.css
+GET /jquery/jquery-2.1.4.min.js
+GET /node_modules/angular-route/angular-route.js
+GET /node_modules/angular-jwt/dist/angular-jwt.js
+GET /node_modules/angular/angular.js
+GET /angular-app/app.js
+GET /angular-app/hotel-list/hotel-list-controller.js
+GET /angular-app/hotel-display/hotel-display-controller.js
+GET /angular-app/hotel-data-factory/hotel-data-factory.js
+GET /angular-app/hotel-rating/hotel-rating-directive.js
+GET /angular-app/register/register-controller.js
+GET /angular-app/login/login-controller.js
+GET /angular-app/navigation-directive/navigation-directive.js
+GET /angular-app/auth/auth-factory.js
+GET /angular-app/auth/auth-interceptor.js
+GET /angular-app/navigation-directive/navigation-directive.html
+GET /angular-app/main/main.html
+GET /favicon.ico
+GET /robots.txt
+GET /admin/i18n/readme.txt
+GET /
+GET /css/bootstrap.min.css
+GET /jquery/jquery-2.1.4.min.js
+GET /css/custom.css
+GET /node_modules/angular/angular.js
+GET /node_modules/angular-route/angular-route.js
+GET /node_modules/angular-jwt/dist/angular-jwt.js
+GET /angular-app/hotel-data-factory/hotel-data-factory.js
+GET /angular-app/register/register-controller.js
+GET /angular-app/app.js
+GET /angular-app/hotel-list/hotel-list-controller.js
+GET /angular-app/hotel-display/hotel-display-controller.js
+GET /angular-app/hotel-rating/hotel-rating-directive.js
+GET /angular-app/login/login-controller.js
+GET /angular-app/navigation-directive/navigation-directive.js
+GET /angular-app/auth/auth-factory.js
+GET /angular-app/auth/auth-interceptor.js
+GET /angular-app/navigation-directive/navigation-directive.html
+GET /angular-app/main/main.html
+GET /favicon.ico
+GET /
+GET /
+GET /
+GET /favicon.ico
+GET /angular-app/hotel-list/hotel-list-controller.js
+GET /node_modules/angular-jwt/dist/angular-jwt.js
+GET /angular-app/hotel-rating/hotel-rating-directive.js
+GET /angular-app/register/register-controller.js
+GET /node_modules/angular-route/angular-route.js
+GET /node_modules/angular/angular.js
+GET /angular-app/auth/auth-interceptor.js
+GET /jquery/jquery-2.1.4.min.js
+GET /css/bootstrap.min.css
+GET /angular-app/app.js
+GET /angular-app/hotel-data-factory/hotel-data-factory.js
+GET /angular-app/login/login-controller.js
+GET /angular-app/auth/auth-factory.js
+GET /css/custom.css
+GET /angular-app/hotel-display/hotel-display-controller.js
+GET /angular-app/navigation-directive/navigation-directive.js
+GET /angular-app/navigation-directive/navigation-directive.html
+GET /angular-app/main/main.html
+GET /
+GET /css/custom.css
+GET /css/bootstrap.min.css
+GET /jquery/jquery-2.1.4.min.js
+GET /node_modules/angular-route/angular-route.js
+GET /node_modules/angular/angular.js
+GET /node_modules/angular-jwt/dist/angular-jwt.js
+GET /angular-app/app.js
+GET /angular-app/hotel-list/hotel-list-controller.js
+GET /angular-app/hotel-display/hotel-display-controller.js
+GET /angular-app/hotel-data-factory/hotel-data-factory.js
+GET /angular-app/hotel-rating/hotel-rating-directive.js
+GET /angular-app/register/register-controller.js
+GET /angular-app/navigation-directive/navigation-directive.js
+GET /angular-app/login/login-controller.js
+GET /angular-app/auth/auth-interceptor.js
+GET /angular-app/auth/auth-factory.js
+GET /angular-app/navigation-directive/navigation-directive.html
+GET /angular-app/main/main.html
+GET /favicon.ico
+GET /angular-app/hotel-list/hotels.html
+GET /api/hotels?count=10
+Requested by: undefined
+GET the hotels
+{ count: '10' }
+(node:14041) DeprecationWarning: Mongoose: mpromise (mongoose's default promise library) is deprecated, plug in your own promise library instead: http://mongoosejs.com/docs/promises.html
+null
+[ { _id: 58d2dfc1734d1d60cee8b3c0,
+    name: 'Corinthia Hotel Budapest',
+    description: 'The 5-star Corinthia Hotel Budapest on the Grand Boulevard offers free access to its Royal Spa, 3 restaurants, an elegant café and free Wi-Fi in all rooms.\nThe UNESCO-protected Andrassy Avenue and the Oktogon metro station are only 300 metres away from the Corinthia Hotel Budapest.\nIn the newly opened Royal Spa you can enjoy several relaxation areas, saunas, steam baths, hot tubs, a fitness room, mud baths, seaweed baths and a wide variety of treatments.\nThe large guest rooms of the Corinthia Hotel Budapest are all air-conditioned and feature a flat-screen TV with satellite channels.\nGourmet Hungarian, Asian and international cuisine can be enjoyed in the restaurants and you can choose from a selection of home-made cakes in the café. Throughout the day you can listen to live piano music in the lobby bar.\n07. Erzsébetváros is a great choice for travellers interested in nightlife, culture and hot springs.',
+    currency: 'HUF',
+    location: 
+     { address: '1073 Budapest, Erzsébet körút 43-49., Hungary',
+       coordinates: [Object] },
+    rooms: [ [Object], [Object], [Object], [Object] ],
+    reviews: [ [Object], [Object], [Object], [Object] ],
+    photos: 
+     [ '/photos/hotel/corinthiahotelbudapest/1.jpg',
+       '/photos/hotel/corinthiahotelbudapest/2.jpg',
+       '/photos/hotel/corinthiahotelbudapest/3.jpg' ],
+    services: 
+     [ 'Room service',
+       'Airport shuttle (surcharge)',
+       '24-hour front desk',
+       'Currency exchange',
+       'Tour desk',
+       'Ticket service',
+       'Luggage storage',
+       'Concierge service',
+       'Laundry',
+       'Dry cleaning',
+       'Ironing service',
+       'Meeting/banquet facilities',
+       'Business centre',
+       'Fax/photocopying',
+       'Barber/beauty shop',
+       'Gift shop' ],
+    stars: 5 },
+  { _id: 58d2f92f734d1d60cee8c0e1,
+    name: 'Hotel Karin',
+    description: 'The newly opened, small and charming Karin hotel is situated in the green belt of Budapest, 10 km north of the city centre, and offers excellent public transport links and free parking.\nAir-conditioned and nicely furnished en-suite double rooms with balconies and apartments provide for a peaceful night\'s rest. In the pleasant restaurant you can start every morning at the rich complimentary breakfast buffet.\nWireless internet access is available in the entire hotel free of charge.\n04. Újpest is a great choice for travellers interested in zoo, monuments and city trip.',
+    currency: 'HUF',
+    location: 
+     { address: '1047 Budapest, Foti ut 75, Hungary',
+       coordinates: [Object] },
+    rooms: [ [Object], [Object] ],
+    reviews: [ [Object] ],
+    photos: 
+     [ '/photos/hotel/hotelkarin/1.jpg',
+       '/photos/hotel/hotelkarin/2.jpg' ],
+    services: 
+     [ 'Room service',
+       'Airport shuttle (surcharge)',
+       '24-hour front desk',
+       'Tour desk',
+       'Ticket service',
+       'Luggage storage',
+       'Laundry',
+       'Ironing service',
+       'Fax/photocopying' ],
+    stars: 3 },
+  { _id: 58d2e8cd734d1d60cee8b8ed,
+    name: 'Grand Hotel Palatino',
+    description: 'Just a 5-minute walk from the Coliseum and 100 metres from Cavour Metro, Grand Hotel Palatino is in Rome\'s Monti District. It offers an American bar and 2 restaurants. Wi-Fi is free throughout. Rooms at the Grand Hotel are air conditioned and come with a minibar and satellite TV. Some have views of Rome’s rooftops.\nLe Erbe restaurant offers international cuisine in elegant surroundings, while Le Spighe specialises in Roman dishes and classic Italian cooking. Breakfast starts at 06:30.\nThe Forum and the Parco di Traiano are both less than a 10-minute walk from the hotel. Termini Train Station is one metro stop away, as is Esquilino with its markets and many ethnic restaurants.\nRione Monti is a great choice for travellers interested in sightseeing, food and monuments.',
+    currency: '€',
+    location: 
+     { address: 'Via Cavour 213, Rione Monti, 00184 Rome, Italy',
+       coordinates: [Object] },
+    rooms: [ [Object], [Object], [Object], [Object], [Object] ],
+    reviews: [ [Object], [Object], [Object] ],
+    photos: 
+     [ '/photos/hotel/grandhotelpalatino/1.jpg',
+       '/photos/hotel/grandhotelpalatino/2.jpg',
+       '/photos/hotel/grandhotelpalatino/3.jpg' ],
+    services: 
+     [ 'Room service',
+       'Airport shuttle (surcharge)',
+       '24-hour front desk',
+       'Currency exchange',
+       'Tour desk',
+       'Luggage storage',
+       'Concierge service',
+       'Laundry',
+       'Dry cleaning',
+       'Ironing service',
+       'Meeting/banquet facilities',
+       'Business centre',
+       'VIP room facilities' ],
+    stars: 4 },
+  { _id: 58d2f8e3734d1d60cee8c0ac,
+    name: 'Hotel Dann Carlton Belfort Medellin',
+    description: 'Boasting a panoramic hot tub and a swimming pool surrounded with vegetation and sun loungers, this stylish hotel offers gym facilities and free Wi-Fi. Massage sessions are available.\nHotel Dann Carlton Belfort Medellin is set in a residential area 15 blocks from El Poblado Subway station and 2.7 km from Pies Descalzos Park. Car rental can be arranged.\nAir-conditioned rooms are styled with carpeted floors, draped curtains and elegant wooden furniture. They have flat-screen cable TVs and bathrooms with baths. The suite features a dining area and the junior suites offers views of Medellin.\nA full buffet breakfast with fruits, juices and chocolate is served daily. Guests can enjoy Italian cuisine at Orvietto Restaurant.\nJose Maria Cordoba International Airport is a 45-minute drive. On-site parking is free.\nEl Poblado is a great choice for travellers interested in nightlife, food and business.',
+    currency: 'COP',
+    location: 
+     { address: 'Calle 17 No 40B - 300, El Poblado, 050001 Medellín, Colombia',
+       coordinates: [Object] },
+    rooms: [ [Object], [Object], [Object] ],
+    reviews: [ [Object] ],
+    photos: 
+     [ '/photos/hotel/hoteldanncarltonbelfortmedellin/1.jpg',
+       '/photos/hotel/hoteldanncarltonbelfortmedellin/2.jpg' ],
+    services: 
+     [ 'Room service',
+       'Car hire',
+       'Airport shuttle (surcharge)',
+       '24-hour front desk',
+       'Express check-in/check-out',
+       'Currency exchange',
+       'Tour desk',
+       'Luggage storage',
+       'Concierge service',
+       'Laundry',
+       'Dry cleaning',
+       'Ironing service',
+       'Meeting/banquet facilities',
+       'Business centre',
+       'Fax/photocopying' ],
+    stars: 5 },
+  { _id: 58d2f97a734d1d60cee8c0f6,
+    name: 'Hotel Quirinale',
+    description: 'Set in a 19th-century building, the Quirinale is 10 minutes\' walk from the Coliseum. This historic hotel is connected to Rome Opera House through a passageway in its leafy courtyard. Rooms come with free Wi-Fi.\nHotel Quirinale\'s spacious rooms are uniquely decorated and feature classic furnishings and parquet floors. Each room offers a flat-screen TV with satellite and pay-per-view channels. Some rooms overlook the small garden and courtyard.\nThe hotel\'s continental breakfast can be enjoyed outdoors in fine weather. There is also an à la carte restaurant, and the hotel\'s Opera Bistrot is open all afternoon for more informal meals.\nThe Quirinale is located 200 metres from Repubblica Metro Station. The Spanish Steps and the Trevi Fountain are both within a 15-minute walk, while Vatican City can be reached by car in 10 minutes.\nCentral Station is a great choice for travellers interested in monuments, architecture and ancient landmarks.',
+    currency: '€',
+    location: 
+     { address: 'Via Nazionale 7, Central Station, 00184 Rome, Italy',
+       coordinates: [Object] },
+    rooms: [ [Object], [Object], [Object], [Object], [Object] ],
+    reviews: [ [Object] ],
+    photos: 
+     [ '/photos/hotel/hotelquirinale/1.jpg',
+       '/photos/hotel/hotelquirinale/2.jpg',
+       '/photos/hotel/hotelquirinale/3.jpg',
+       '/photos/hotel/hotelquirinale/4.jpg' ],
+    services: 
+     [ 'Room service',
+       'Car hire',
+       '24-hour front desk',
+       'Currency exchange',
+       'Tour desk',
+       'Ticket service',
+       'Luggage storage',
+       'Babysitting/child services',
+       'Laundry',
+       'Dry cleaning',
+       'Ironing service',
+       'Meeting/banquet facilities',
+       'Business centre',
+       'Fax/photocopying' ],
+    stars: 4 },
+  { _id: 58d2f99e734d1d60cee8c0fb,
+    name: 'Hotel Raphael – Relais & Châteaux',
+    description: 'One street from Piazza Navona, Hotel Raphael offers luxurious rooms with marble bathroom and parquet floors. Its roof terrace boasts panoramic views of Rome, from St. Peter\'s to the Pantheon.\nAll air-conditioned rooms come with flat-screen satellite TV and free wired internet. Each elegant bathroom features a bathrobe, slippers, and courtesy set by Bulgari. Some rooms were designed by architect Richard Meier and include an entertainment system by Bose.\nThe 5-star Hotel Raphael – Relais & Châteaux serves an abundant buffet breakfast every morning. Guests can dine at the La Madre Terra restaurant or, weather permitting, at La Terrazza Bramante on the roof terrace.\nThe Raphael Hotel is well connected by buses and most of Rome\'s historic attractions are just a short walk away. You can reach the Pantheon in 5 minutes on foot, while Castel Sant\'Angelo is only 700 metres away.\nNavona is a great choice for travellers interested in food, culture and shopping.',
+    currency: '€',
+    location: 
+     { address: 'Largo Febo 2, Navona, 00186 Rome, Italy',
+       coordinates: [Object] },
+    rooms: [ [Object], [Object], [Object], [Object], [Object] ],
+    reviews: [ [Object] ],
+    photos: 
+     [ '/photos/hotel/hotelraphaelrelaischateaux/1.jpg',
+       '/photos/hotel/hotelraphaelrelaischateaux/2.jpg' ],
+    services: 
+     [ 'Room service',
+       'Car hire',
+       '24-hour front desk',
+       'Express check-in/check-out',
+       'Currency exchange',
+       'Tour desk',
+       'Ticket service',
+       'Luggage storage',
+       'Concierge service',
+       'Babysitting/child services',
+       'Laundry',
+       'Dry cleaning',
+       'Ironing service',
+       'Shoeshine',
+       'Meeting/banquet facilities',
+       'Business centre',
+       'Fax/photocopying',
+       'VIP room facilities',
+       'Bridal suite' ],
+    stars: 5 },
+  { _id: 58d2f9b7734d1d60cee8c102,
+    name: 'Kempinski Hotel Corvinus Budapest',
+    description: 'Situated 700 metres from the Chain Bridge and Saint Stephen\'s Basilica, Kempinski Hotel Corvinus Budapest offers several restaurants, luxurious air-conditioned rooms, and an indoor pool. Its architecture is a symbol of modern Budapest.\nThe elegant non-smoking rooms at Hotel Kempinski Corvinus are all equipped with cable TV and free WiFi. They either feature views of the park, the city, or the Fashion Street.\nThe Nobu Restaurant serves delicious sushi and innovative Japanese dishes, while the ÉS Bisztró-Brasserie features a summer terrace and serves Hungarian and Viennese specialities. The Living Room is a classic coffeeshop with a modern twist. Drinks can be enjoyed at Blue Fox The Bar.\nKempinski The Spa, on second floor provides unique massages and body treatments with natural products. At no surcharge, guests can enjoy the sauna and the fitness centre.\nFrom the nearby underground and bus stops, guests can easily access all attractions. The Hungexpo Exhibition Centre is a 20-minute drive away.\n05. Belváros - Lipótváros is a great choice for travellers interested in shopping, history and food.',
+    currency: 'HUF',
+    location: 
+     { address: '1051 Budapest, Erzsébet tér 7-8., Hungary',
+       coordinates: [Object] },
+    rooms: [ [Object], [Object], [Object] ],
+    reviews: [ [Object] ],
+    photos: 
+     [ '/photos/hotel/kempinskihotelcorvinusbudapest/1.jpg',
+       '/photos/hotel/kempinskihotelcorvinusbudapest/2.jpg',
+       '/photos/hotel/kempinskihotelcorvinusbudapest/3.jpg' ],
+    services: 
+     [ 'Room service',
+       'Packed lunches',
+       'Car hire',
+       'Shuttle service (surcharge)',
+       'Airport shuttle (surcharge)',
+       '24-hour front desk',
+       'Express check-in/check-out',
+       'Currency exchange',
+       'Tour desk',
+       'Ticket service',
+       'Luggage storage',
+       'Concierge service',
+       'Babysitting/child services',
+       'Laundry',
+       'Dry cleaning',
+       'Ironing service',
+       'Shoeshine',
+       'Trouser press',
+       'Daily maid service',
+       'Meeting/banquet facilities',
+       'Business centre',
+       'Gift shop',
+       'VIP room facilities' ],
+    stars: 5 },
+  { _id: 58d2f9c8734d1d60cee8c108,
+    name: 'New York Marriott Marquis',
+    description: 'Located in the heart of Times Square and the Broadway theater district, this 4-star hotel features 3 dining options, including a revolving rooftop restaurant.\nThe luxurious rooms at the New York Marriott Marquis have a spacious seating area, an LCD TV with satellite channels and a stylish marble bathroom with a range of amenities. Select rooms offer a panoramic view of New York city.\nGuests can enjoy continental cuisine at the popular revolving rooftop View Restaurant & Lounge, or have American cuisine at Crossroads American Kitchen & Bar. Alternatively, the Broadway Lounge offers cocktails and light refreshments on the hotel\'s 8th floor, with views overlooking Times Square. The lobby on this floor has free Wi-Fi.\nThe Marriott Marquis also features a 4,000 square-foot fitness center, which also overlooks Times Square.\nThe New York Marriott is just minutes from Fifth Avenue shops.',
+    currency: '$',
+    location: 
+     { address: '1535 Broadway, New York, NY 10036, USA',
+       coordinates: [Object] },
+    rooms: [ [Object], [Object], [Object] ],
+    reviews: [ [Object] ],
+    photos: 
+     [ '/photos/hotel/newyorkmarriottmarquis/1.jpg',
+       '/photos/hotel/newyorkmarriottmarquis/2.jpg' ],
+    services: 
+     [ 'Room service',
+       'Vending machine (drinks)',
+       'Vending machine (snacks)',
+       '24-hour front desk',
+       'Express check-in/check-out',
+       'Currency exchange',
+       'Tour desk',
+       'Ticket service',
+       'Luggage storage',
+       'ATM/cash machine on site',
+       'Concierge service',
+       'Laundry',
+       'Dry cleaning',
+       'Shoeshine',
+       'Meeting/banquet facilities',
+       'Business centre',
+       'Gift shop' ],
+    stars: 4 },
+  { _id: 58d2f9df734d1d60cee8c113,
+    name: 'Park Lane Hotel on Central Park',
+    description: 'Park Lane Hotel is a deluxe hotel with a European ambiance, providing views over Central Park and the New York skyline. It is only 2 minutes’ walk from the elegant shops of 5th Avenue and the 59th Street N,Q,R underground station.\nSpacious and bright, rooms at Park Lane Hotel are fitted with oversized windows and fine linens. Amenities include flat-screen TVs and access to the on-site fitness centre.\nEnjoy a seasonal menu created by Jeff Cristelli at The Park Room Restaurant, or select from a wide variety of cocktails at Harry\'s New York Bar.\nNew York’s Museum of Modern Art, Radio City Music Hall, and Rockefeller Center, are all within 10 minutes\' walk. With the park directly in front of the hotel, jogging and recreational activities are easily accessible.',
+    currency: '$',
+    location: 
+     { address: '36 Central Park South, New York, NY 10019, USA',
+       coordinates: [Object] },
+    rooms: [ [Object], [Object], [Object], [Object] ],
+    reviews: [ [Object], [Object], [Object], [Object], [Object], [Object] ],
+    photos: 
+     [ '/photos/hotel/parklanehoteloncentralpark/1.jpg',
+       '/photos/hotel/parklanehoteloncentralpark/2.jpg' ],
+    services: 
+     [ 'Room service',
+       '24-hour front desk',
+       'Tour desk',
+       'Luggage storage',
+       'Concierge service',
+       'Laundry',
+       'Dry cleaning',
+       'Ironing service',
+       'Meeting/banquet facilities',
+       'Business centre',
+       'Fax/photocopying' ],
+    stars: 5 },
+  { _id: 58d2f9fb734d1d60cee8c11a,
+    name: 'Park Plaza Westminster Bridge London',
+    description: 'Park Plaza Westminster Bridge London is set opposite the Houses of Parliament and Big Ben, on the South Bank. It is close to the London Eye, the Aquarium, restaurants and theatres.\nThe large, contemporary air-conditioned rooms have modern luxuries, including a flat-screen TV, large desk, mini-bar, fridge and safe. Studios and apartments are also available.\nPark Plaza Westminster Bridge is by the River Thames, 500 metres from The London Eye and London Waterloo Station. Westminster Tube Station is just a short walk away.\nWestminster Bridge Park Plaza features the modern, award-winning Brasserie Joel, Ichi Sushi & Sashami, while the 1WB Lounge & Patisserie offers traditional afternoon tea. Primo Bar offers evening entertainment every night.\nThere is a fully equipped 24-hour gym, a 15-metre swimming pool with a sauna and steam room, and the recently opened Mandara Spa, offering a range of luxury treatments.\nLambeth is a great choice for travellers interested in history, monuments and sightseeing.',
+    currency: '£',
+    location: 
+     { address: 'Westminster Bridge Road, Lambeth, London, SE1 7UT, United Kingdom',
+       coordinates: [Object] },
+    rooms: [ [Object], [Object], [Object], [Object] ],
+    reviews: [ [Object] ],
+    photos: 
+     [ '/photos/hotel/parkplazawestminsterbridgelondon/1.jpg',
+       '/photos/hotel/parkplazawestminsterbridgelondon/2.jpg',
+       '/photos/hotel/parkplazawestminsterbridgelondon/3.jpg' ],
+    services: 
+     [ 'Room service',
+       'Car hire',
+       '24-hour front desk',
+       'Express check-in/check-out',
+       'Currency exchange',
+       'Ticket service',
+       'Luggage storage',
+       'ATM/cash machine on site',
+       'Concierge service',
+       'Laundry',
+       'Dry cleaning',
+       'Ironing service',
+       'Shoeshine',
+       'Meeting/banquet facilities',
+       'Business centre',
+       'Fax/photocopying',
+       'VIP room facilities',
+       'Bridal suite' ],
+    stars: 4 } ]
+Found hotels 10
+GET /angular-app/hotel-display/hotel.html
+GET /api/hotels/58d2f9b7734d1d60cee8c102
+GET hotelId 58d2f9b7734d1d60cee8c102
+GET /api/hotels/58d2f9b7734d1d60cee8c102
+GET hotelId 58d2f9b7734d1d60cee8c102
+GET /fonts/glyphicons-halflings-regular.woff2
+GET /angular-app/register/register.html
+GET /api/hotels?count=10
+Requested by: undefined
+GET the hotels
+{ count: '10' }
+null
+[ { _id: 58d2dfc1734d1d60cee8b3c0,
+    name: 'Corinthia Hotel Budapest',
+    description: 'The 5-star Corinthia Hotel Budapest on the Grand Boulevard offers free access to its Royal Spa, 3 restaurants, an elegant café and free Wi-Fi in all rooms.\nThe UNESCO-protected Andrassy Avenue and the Oktogon metro station are only 300 metres away from the Corinthia Hotel Budapest.\nIn the newly opened Royal Spa you can enjoy several relaxation areas, saunas, steam baths, hot tubs, a fitness room, mud baths, seaweed baths and a wide variety of treatments.\nThe large guest rooms of the Corinthia Hotel Budapest are all air-conditioned and feature a flat-screen TV with satellite channels.\nGourmet Hungarian, Asian and international cuisine can be enjoyed in the restaurants and you can choose from a selection of home-made cakes in the café. Throughout the day you can listen to live piano music in the lobby bar.\n07. Erzsébetváros is a great choice for travellers interested in nightlife, culture and hot springs.',
+    currency: 'HUF',
+    location: 
+     { address: '1073 Budapest, Erzsébet körút 43-49., Hungary',
+       coordinates: [Object] },
+    rooms: [ [Object], [Object], [Object], [Object] ],
+    reviews: [ [Object], [Object], [Object], [Object] ],
+    photos: 
+     [ '/photos/hotel/corinthiahotelbudapest/1.jpg',
+       '/photos/hotel/corinthiahotelbudapest/2.jpg',
+       '/photos/hotel/corinthiahotelbudapest/3.jpg' ],
+    services: 
+     [ 'Room service',
+       'Airport shuttle (surcharge)',
+       '24-hour front desk',
+       'Currency exchange',
+       'Tour desk',
+       'Ticket service',
+       'Luggage storage',
+       'Concierge service',
+       'Laundry',
+       'Dry cleaning',
+       'Ironing service',
+       'Meeting/banquet facilities',
+       'Business centre',
+       'Fax/photocopying',
+       'Barber/beauty shop',
+       'Gift shop' ],
+    stars: 5 },
+  { _id: 58d2f92f734d1d60cee8c0e1,
+    name: 'Hotel Karin',
+    description: 'The newly opened, small and charming Karin hotel is situated in the green belt of Budapest, 10 km north of the city centre, and offers excellent public transport links and free parking.\nAir-conditioned and nicely furnished en-suite double rooms with balconies and apartments provide for a peaceful night\'s rest. In the pleasant restaurant you can start every morning at the rich complimentary breakfast buffet.\nWireless internet access is available in the entire hotel free of charge.\n04. Újpest is a great choice for travellers interested in zoo, monuments and city trip.',
+    currency: 'HUF',
+    location: 
+     { address: '1047 Budapest, Foti ut 75, Hungary',
+       coordinates: [Object] },
+    rooms: [ [Object], [Object] ],
+    reviews: [ [Object] ],
+    photos: 
+     [ '/photos/hotel/hotelkarin/1.jpg',
+       '/photos/hotel/hotelkarin/2.jpg' ],
+    services: 
+     [ 'Room service',
+       'Airport shuttle (surcharge)',
+       '24-hour front desk',
+       'Tour desk',
+       'Ticket service',
+       'Luggage storage',
+       'Laundry',
+       'Ironing service',
+       'Fax/photocopying' ],
+    stars: 3 },
+  { _id: 58d2e8cd734d1d60cee8b8ed,
+    name: 'Grand Hotel Palatino',
+    description: 'Just a 5-minute walk from the Coliseum and 100 metres from Cavour Metro, Grand Hotel Palatino is in Rome\'s Monti District. It offers an American bar and 2 restaurants. Wi-Fi is free throughout. Rooms at the Grand Hotel are air conditioned and come with a minibar and satellite TV. Some have views of Rome’s rooftops.\nLe Erbe restaurant offers international cuisine in elegant surroundings, while Le Spighe specialises in Roman dishes and classic Italian cooking. Breakfast starts at 06:30.\nThe Forum and the Parco di Traiano are both less than a 10-minute walk from the hotel. Termini Train Station is one metro stop away, as is Esquilino with its markets and many ethnic restaurants.\nRione Monti is a great choice for travellers interested in sightseeing, food and monuments.',
+    currency: '€',
+    location: 
+     { address: 'Via Cavour 213, Rione Monti, 00184 Rome, Italy',
+       coordinates: [Object] },
+    rooms: [ [Object], [Object], [Object], [Object], [Object] ],
+    reviews: [ [Object], [Object], [Object] ],
+    photos: 
+     [ '/photos/hotel/grandhotelpalatino/1.jpg',
+       '/photos/hotel/grandhotelpalatino/2.jpg',
+       '/photos/hotel/grandhotelpalatino/3.jpg' ],
+    services: 
+     [ 'Room service',
+       'Airport shuttle (surcharge)',
+       '24-hour front desk',
+       'Currency exchange',
+       'Tour desk',
+       'Luggage storage',
+       'Concierge service',
+       'Laundry',
+       'Dry cleaning',
+       'Ironing service',
+       'Meeting/banquet facilities',
+       'Business centre',
+       'VIP room facilities' ],
+    stars: 4 },
+  { _id: 58d2f8e3734d1d60cee8c0ac,
+    name: 'Hotel Dann Carlton Belfort Medellin',
+    description: 'Boasting a panoramic hot tub and a swimming pool surrounded with vegetation and sun loungers, this stylish hotel offers gym facilities and free Wi-Fi. Massage sessions are available.\nHotel Dann Carlton Belfort Medellin is set in a residential area 15 blocks from El Poblado Subway station and 2.7 km from Pies Descalzos Park. Car rental can be arranged.\nAir-conditioned rooms are styled with carpeted floors, draped curtains and elegant wooden furniture. They have flat-screen cable TVs and bathrooms with baths. The suite features a dining area and the junior suites offers views of Medellin.\nA full buffet breakfast with fruits, juices and chocolate is served daily. Guests can enjoy Italian cuisine at Orvietto Restaurant.\nJose Maria Cordoba International Airport is a 45-minute drive. On-site parking is free.\nEl Poblado is a great choice for travellers interested in nightlife, food and business.',
+    currency: 'COP',
+    location: 
+     { address: 'Calle 17 No 40B - 300, El Poblado, 050001 Medellín, Colombia',
+       coordinates: [Object] },
+    rooms: [ [Object], [Object], [Object] ],
+    reviews: [ [Object] ],
+    photos: 
+     [ '/photos/hotel/hoteldanncarltonbelfortmedellin/1.jpg',
+       '/photos/hotel/hoteldanncarltonbelfortmedellin/2.jpg' ],
+    services: 
+     [ 'Room service',
+       'Car hire',
+       'Airport shuttle (surcharge)',
+       '24-hour front desk',
+       'Express check-in/check-out',
+       'Currency exchange',
+       'Tour desk',
+       'Luggage storage',
+       'Concierge service',
+       'Laundry',
+       'Dry cleaning',
+       'Ironing service',
+       'Meeting/banquet facilities',
+       'Business centre',
+       'Fax/photocopying' ],
+    stars: 5 },
+  { _id: 58d2f97a734d1d60cee8c0f6,
+    name: 'Hotel Quirinale',
+    description: 'Set in a 19th-century building, the Quirinale is 10 minutes\' walk from the Coliseum. This historic hotel is connected to Rome Opera House through a passageway in its leafy courtyard. Rooms come with free Wi-Fi.\nHotel Quirinale\'s spacious rooms are uniquely decorated and feature classic furnishings and parquet floors. Each room offers a flat-screen TV with satellite and pay-per-view channels. Some rooms overlook the small garden and courtyard.\nThe hotel\'s continental breakfast can be enjoyed outdoors in fine weather. There is also an à la carte restaurant, and the hotel\'s Opera Bistrot is open all afternoon for more informal meals.\nThe Quirinale is located 200 metres from Repubblica Metro Station. The Spanish Steps and the Trevi Fountain are both within a 15-minute walk, while Vatican City can be reached by car in 10 minutes.\nCentral Station is a great choice for travellers interested in monuments, architecture and ancient landmarks.',
+    currency: '€',
+    location: 
+     { address: 'Via Nazionale 7, Central Station, 00184 Rome, Italy',
+       coordinates: [Object] },
+    rooms: [ [Object], [Object], [Object], [Object], [Object] ],
+    reviews: [ [Object] ],
+    photos: 
+     [ '/photos/hotel/hotelquirinale/1.jpg',
+       '/photos/hotel/hotelquirinale/2.jpg',
+       '/photos/hotel/hotelquirinale/3.jpg',
+       '/photos/hotel/hotelquirinale/4.jpg' ],
+    services: 
+     [ 'Room service',
+       'Car hire',
+       '24-hour front desk',
+       'Currency exchange',
+       'Tour desk',
+       'Ticket service',
+       'Luggage storage',
+       'Babysitting/child services',
+       'Laundry',
+       'Dry cleaning',
+       'Ironing service',
+       'Meeting/banquet facilities',
+       'Business centre',
+       'Fax/photocopying' ],
+    stars: 4 },
+  { _id: 58d2f99e734d1d60cee8c0fb,
+    name: 'Hotel Raphael – Relais & Châteaux',
+    description: 'One street from Piazza Navona, Hotel Raphael offers luxurious rooms with marble bathroom and parquet floors. Its roof terrace boasts panoramic views of Rome, from St. Peter\'s to the Pantheon.\nAll air-conditioned rooms come with flat-screen satellite TV and free wired internet. Each elegant bathroom features a bathrobe, slippers, and courtesy set by Bulgari. Some rooms were designed by architect Richard Meier and include an entertainment system by Bose.\nThe 5-star Hotel Raphael – Relais & Châteaux serves an abundant buffet breakfast every morning. Guests can dine at the La Madre Terra restaurant or, weather permitting, at La Terrazza Bramante on the roof terrace.\nThe Raphael Hotel is well connected by buses and most of Rome\'s historic attractions are just a short walk away. You can reach the Pantheon in 5 minutes on foot, while Castel Sant\'Angelo is only 700 metres away.\nNavona is a great choice for travellers interested in food, culture and shopping.',
+    currency: '€',
+    location: 
+     { address: 'Largo Febo 2, Navona, 00186 Rome, Italy',
+       coordinates: [Object] },
+    rooms: [ [Object], [Object], [Object], [Object], [Object] ],
+    reviews: [ [Object] ],
+    photos: 
+     [ '/photos/hotel/hotelraphaelrelaischateaux/1.jpg',
+       '/photos/hotel/hotelraphaelrelaischateaux/2.jpg' ],
+    services: 
+     [ 'Room service',
+       'Car hire',
+       '24-hour front desk',
+       'Express check-in/check-out',
+       'Currency exchange',
+       'Tour desk',
+       'Ticket service',
+       'Luggage storage',
+       'Concierge service',
+       'Babysitting/child services',
+       'Laundry',
+       'Dry cleaning',
+       'Ironing service',
+       'Shoeshine',
+       'Meeting/banquet facilities',
+       'Business centre',
+       'Fax/photocopying',
+       'VIP room facilities',
+       'Bridal suite' ],
+    stars: 5 },
+  { _id: 58d2f9b7734d1d60cee8c102,
+    name: 'Kempinski Hotel Corvinus Budapest',
+    description: 'Situated 700 metres from the Chain Bridge and Saint Stephen\'s Basilica, Kempinski Hotel Corvinus Budapest offers several restaurants, luxurious air-conditioned rooms, and an indoor pool. Its architecture is a symbol of modern Budapest.\nThe elegant non-smoking rooms at Hotel Kempinski Corvinus are all equipped with cable TV and free WiFi. They either feature views of the park, the city, or the Fashion Street.\nThe Nobu Restaurant serves delicious sushi and innovative Japanese dishes, while the ÉS Bisztró-Brasserie features a summer terrace and serves Hungarian and Viennese specialities. The Living Room is a classic coffeeshop with a modern twist. Drinks can be enjoyed at Blue Fox The Bar.\nKempinski The Spa, on second floor provides unique massages and body treatments with natural products. At no surcharge, guests can enjoy the sauna and the fitness centre.\nFrom the nearby underground and bus stops, guests can easily access all attractions. The Hungexpo Exhibition Centre is a 20-minute drive away.\n05. Belváros - Lipótváros is a great choice for travellers interested in shopping, history and food.',
+    currency: 'HUF',
+    location: 
+     { address: '1051 Budapest, Erzsébet tér 7-8., Hungary',
+       coordinates: [Object] },
+    rooms: [ [Object], [Object], [Object] ],
+    reviews: [ [Object] ],
+    photos: 
+     [ '/photos/hotel/kempinskihotelcorvinusbudapest/1.jpg',
+       '/photos/hotel/kempinskihotelcorvinusbudapest/2.jpg',
+       '/photos/hotel/kempinskihotelcorvinusbudapest/3.jpg' ],
+    services: 
+     [ 'Room service',
+       'Packed lunches',
+       'Car hire',
+       'Shuttle service (surcharge)',
+       'Airport shuttle (surcharge)',
+       '24-hour front desk',
+       'Express check-in/check-out',
+       'Currency exchange',
+       'Tour desk',
+       'Ticket service',
+       'Luggage storage',
+       'Concierge service',
+       'Babysitting/child services',
+       'Laundry',
+       'Dry cleaning',
+       'Ironing service',
+       'Shoeshine',
+       'Trouser press',
+       'Daily maid service',
+       'Meeting/banquet facilities',
+       'Business centre',
+       'Gift shop',
+       'VIP room facilities' ],
+    stars: 5 },
+  { _id: 58d2f9c8734d1d60cee8c108,
+    name: 'New York Marriott Marquis',
+    description: 'Located in the heart of Times Square and the Broadway theater district, this 4-star hotel features 3 dining options, including a revolving rooftop restaurant.\nThe luxurious rooms at the New York Marriott Marquis have a spacious seating area, an LCD TV with satellite channels and a stylish marble bathroom with a range of amenities. Select rooms offer a panoramic view of New York city.\nGuests can enjoy continental cuisine at the popular revolving rooftop View Restaurant & Lounge, or have American cuisine at Crossroads American Kitchen & Bar. Alternatively, the Broadway Lounge offers cocktails and light refreshments on the hotel\'s 8th floor, with views overlooking Times Square. The lobby on this floor has free Wi-Fi.\nThe Marriott Marquis also features a 4,000 square-foot fitness center, which also overlooks Times Square.\nThe New York Marriott is just minutes from Fifth Avenue shops.',
+    currency: '$',
+    location: 
+     { address: '1535 Broadway, New York, NY 10036, USA',
+       coordinates: [Object] },
+    rooms: [ [Object], [Object], [Object] ],
+    reviews: [ [Object] ],
+    photos: 
+     [ '/photos/hotel/newyorkmarriottmarquis/1.jpg',
+       '/photos/hotel/newyorkmarriottmarquis/2.jpg' ],
+    services: 
+     [ 'Room service',
+       'Vending machine (drinks)',
+       'Vending machine (snacks)',
+       '24-hour front desk',
+       'Express check-in/check-out',
+       'Currency exchange',
+       'Tour desk',
+       'Ticket service',
+       'Luggage storage',
+       'ATM/cash machine on site',
+       'Concierge service',
+       'Laundry',
+       'Dry cleaning',
+       'Shoeshine',
+       'Meeting/banquet facilities',
+       'Business centre',
+       'Gift shop' ],
+    stars: 4 },
+  { _id: 58d2f9df734d1d60cee8c113,
+    name: 'Park Lane Hotel on Central Park',
+    description: 'Park Lane Hotel is a deluxe hotel with a European ambiance, providing views over Central Park and the New York skyline. It is only 2 minutes’ walk from the elegant shops of 5th Avenue and the 59th Street N,Q,R underground station.\nSpacious and bright, rooms at Park Lane Hotel are fitted with oversized windows and fine linens. Amenities include flat-screen TVs and access to the on-site fitness centre.\nEnjoy a seasonal menu created by Jeff Cristelli at The Park Room Restaurant, or select from a wide variety of cocktails at Harry\'s New York Bar.\nNew York’s Museum of Modern Art, Radio City Music Hall, and Rockefeller Center, are all within 10 minutes\' walk. With the park directly in front of the hotel, jogging and recreational activities are easily accessible.',
+    currency: '$',
+    location: 
+     { address: '36 Central Park South, New York, NY 10019, USA',
+       coordinates: [Object] },
+    rooms: [ [Object], [Object], [Object], [Object] ],
+    reviews: [ [Object], [Object], [Object], [Object], [Object], [Object] ],
+    photos: 
+     [ '/photos/hotel/parklanehoteloncentralpark/1.jpg',
+       '/photos/hotel/parklanehoteloncentralpark/2.jpg' ],
+    services: 
+     [ 'Room service',
+       '24-hour front desk',
+       'Tour desk',
+       'Luggage storage',
+       'Concierge service',
+       'Laundry',
+       'Dry cleaning',
+       'Ironing service',
+       'Meeting/banquet facilities',
+       'Business centre',
+       'Fax/photocopying' ],
+    stars: 5 },
+  { _id: 58d2f9fb734d1d60cee8c11a,
+    name: 'Park Plaza Westminster Bridge London',
+    description: 'Park Plaza Westminster Bridge London is set opposite the Houses of Parliament and Big Ben, on the South Bank. It is close to the London Eye, the Aquarium, restaurants and theatres.\nThe large, contemporary air-conditioned rooms have modern luxuries, including a flat-screen TV, large desk, mini-bar, fridge and safe. Studios and apartments are also available.\nPark Plaza Westminster Bridge is by the River Thames, 500 metres from The London Eye and London Waterloo Station. Westminster Tube Station is just a short walk away.\nWestminster Bridge Park Plaza features the modern, award-winning Brasserie Joel, Ichi Sushi & Sashami, while the 1WB Lounge & Patisserie offers traditional afternoon tea. Primo Bar offers evening entertainment every night.\nThere is a fully equipped 24-hour gym, a 15-metre swimming pool with a sauna and steam room, and the recently opened Mandara Spa, offering a range of luxury treatments.\nLambeth is a great choice for travellers interested in history, monuments and sightseeing.',
+    currency: '£',
+    location: 
+     { address: 'Westminster Bridge Road, Lambeth, London, SE1 7UT, United Kingdom',
+       coordinates: [Object] },
+    rooms: [ [Object], [Object], [Object], [Object] ],
+    reviews: [ [Object] ],
+    photos: 
+     [ '/photos/hotel/parkplazawestminsterbridgelondon/1.jpg',
+       '/photos/hotel/parkplazawestminsterbridgelondon/2.jpg',
+       '/photos/hotel/parkplazawestminsterbridgelondon/3.jpg' ],
+    services: 
+     [ 'Room service',
+       'Car hire',
+       '24-hour front desk',
+       'Express check-in/check-out',
+       'Currency exchange',
+       'Ticket service',
+       'Luggage storage',
+       'ATM/cash machine on site',
+       'Concierge service',
+       'Laundry',
+       'Dry cleaning',
+       'Ironing service',
+       'Shoeshine',
+       'Meeting/banquet facilities',
+       'Business centre',
+       'Fax/photocopying',
+       'VIP room facilities',
+       'Bridal suite' ],
+    stars: 4 } ]
+Found hotels 10
+GET /
+GET /css/custom.css
+GET /jquery/jquery-2.1.4.min.js
+GET /css/bootstrap.min.css
+GET /node_modules/angular/angular.js
+GET /node_modules/angular-route/angular-route.js
+GET /node_modules/angular-jwt/dist/angular-jwt.js
+GET /angular-app/app.js
+GET /angular-app/hotel-list/hotel-list-controller.js
+GET /angular-app/hotel-display/hotel-display-controller.js
+GET /angular-app/hotel-data-factory/hotel-data-factory.js
+GET /angular-app/hotel-rating/hotel-rating-directive.js
+GET /angular-app/register/register-controller.js
+GET /angular-app/login/login-controller.js
+GET /angular-app/navigation-directive/navigation-directive.js
+GET /angular-app/auth/auth-factory.js
+GET /angular-app/auth/auth-interceptor.js
+GET /angular-app/navigation-directive/navigation-directive.html
+GET /angular-app/main/main.html
+GET /
+GET /node_modules/angular-route/angular-route.js
+GET /node_modules/angular/angular.js
+GET /jquery/jquery-2.1.4.min.js
+GET /angular-app/register/register-controller.js
+GET /css/custom.css
+GET /angular-app/hotel-list/hotel-list-controller.js
+GET /angular-app/login/login-controller.js
+GET /angular-app/navigation-directive/navigation-directive.js
+GET /node_modules/angular-jwt/dist/angular-jwt.js
+GET /angular-app/app.js
+GET /css/bootstrap.min.css
+GET /angular-app/auth/auth-interceptor.js
+GET /angular-app/hotel-data-factory/hotel-data-factory.js
+GET /angular-app/hotel-rating/hotel-rating-directive.js
+GET /angular-app/auth/auth-factory.js
+GET /angular-app/hotel-display/hotel-display-controller.js
+GET /angular-app/navigation-directive/navigation-directive.html
+GET /angular-app/main/main.html
+GET /
+GET /css/bootstrap.min.css
+GET /node_modules/angular-jwt/dist/angular-jwt.js
+GET /node_modules/angular-route/angular-route.js
+GET /node_modules/angular/angular.js
+GET /jquery/jquery-2.1.4.min.js
+GET /css/custom.css
+GET /angular-app/app.js
+GET /angular-app/hotel-list/hotel-list-controller.js
+GET /angular-app/hotel-display/hotel-display-controller.js
+GET /angular-app/hotel-data-factory/hotel-data-factory.js
+GET /angular-app/hotel-rating/hotel-rating-directive.js
+GET /angular-app/register/register-controller.js
+GET /angular-app/navigation-directive/navigation-directive.js
+GET /angular-app/login/login-controller.js
+GET /angular-app/auth/auth-factory.js
+GET /angular-app/auth/auth-interceptor.js
+GET /angular-app/navigation-directive/navigation-directive.html
+GET /angular-app/main/main.html
+GET /favicon.ico
+GET /
+GET /css/bootstrap.min.css
+GET /css/custom.css
+GET /node_modules/angular-jwt/dist/angular-jwt.js
+GET /jquery/jquery-2.1.4.min.js
+GET /node_modules/angular/angular.js
+GET /node_modules/angular-route/angular-route.js
+GET /angular-app/app.js
+GET /angular-app/hotel-list/hotel-list-controller.js
+GET /angular-app/hotel-display/hotel-display-controller.js
+GET /angular-app/hotel-data-factory/hotel-data-factory.js
+GET /angular-app/hotel-rating/hotel-rating-directive.js
+GET /angular-app/register/register-controller.js
+GET /angular-app/navigation-directive/navigation-directive.js
+GET /angular-app/login/login-controller.js
+GET /angular-app/auth/auth-factory.js
+GET /angular-app/auth/auth-interceptor.js
+GET /angular-app/main/main.html
+GET /angular-app/navigation-directive/navigation-directive.html
+GET /favicon.ico
+GET /
+GET /css/bootstrap.min.css
+GET /node_modules/angular-jwt/dist/angular-jwt.js
+GET /angular-app/hotel-list/hotel-list-controller.js
+GET /
+GET /angular-app/hotel-display/hotel-display-controller.js
+GET /css/custom.css
+GET /css/bootstrap.min.css
+GET /jquery/jquery-2.1.4.min.js
+GET /node_modules/angular-jwt/dist/angular-jwt.js
+GET /node_modules/angular/angular.js
+GET /node_modules/angular-route/angular-route.js
+GET /node_modules/angular/angular.js
+GET /css/custom.css
+GET /jquery/jquery-2.1.4.min.js
+GET /angular-app/app.js
+GET /node_modules/angular-route/angular-route.js
+GET /angular-app/register/register-controller.js
+GET /angular-app/auth/auth-factory.js
+GET /angular-app/hotel-data-factory/hotel-data-factory.js
+GET /angular-app/app.js
+GET /angular-app/hotel-rating/hotel-rating-directive.js
+GET /angular-app/navigation-directive/navigation-directive.js
+GET /angular-app/auth/auth-factory.js
+GET /angular-app/hotel-data-factory/hotel-data-factory.js
+GET /angular-app/auth/auth-interceptor.js
+GET /angular-app/hotel-display/hotel-display-controller.js
+GET /angular-app/hotel-list/hotel-list-controller.js
+GET /angular-app/register/register-controller.js
+GET /angular-app/login/login-controller.js
+GET /angular-app/auth/auth-interceptor.js
+GET /angular-app/hotel-rating/hotel-rating-directive.js
+GET /angular-app/navigation-directive/navigation-directive.html
+GET /angular-app/main/main.html
+GET /angular-app/navigation-directive/navigation-directive.js
+GET /angular-app/login/login-controller.js
+GET /angular-app/navigation-directive/navigation-directive.html
+GET /angular-app/main/main.html
+GET /angular-app/register/register.html
+GET /
+GET /css/custom.css
+GET /angular-app/app.js
+GET /angular-app/hotel-list/hotel-list-controller.js
+GET /angular-app/hotel-display/hotel-display-controller.js
+GET /angular-app/hotel-data-factory/hotel-data-factory.js
+GET /angular-app/hotel-rating/hotel-rating-directive.js
+GET /css/bootstrap.min.css
+GET /jquery/jquery-2.1.4.min.js
+GET /node_modules/angular/angular.js
+GET /node_modules/angular-route/angular-route.js
+GET /node_modules/angular-jwt/dist/angular-jwt.js
+GET /angular-app/register/register-controller.js
+GET /angular-app/navigation-directive/navigation-directive.js
+GET /angular-app/login/login-controller.js
+GET /angular-app/auth/auth-factory.js
+GET /angular-app/auth/auth-interceptor.js
+GET /angular-app/navigation-directive/navigation-directive.html
+GET /angular-app/main/main.html
+GET /
+GET /
+GET /css/bootstrap.min.css
+GET /jquery/jquery-2.1.4.min.js
+GET /css/custom.css
+GET /node_modules/angular/angular.js
+GET /node_modules/angular-jwt/dist/angular-jwt.js
+GET /node_modules/angular-route/angular-route.js
+GET /angular-app/hotel-display/hotel-display-controller.js
+GET /angular-app/hotel-rating/hotel-rating-directive.js
+GET /angular-app/login/login-controller.js
+GET /angular-app/auth/auth-factory.js
+GET /angular-app/hotel-list/hotel-list-controller.js
+GET /angular-app/hotel-data-factory/hotel-data-factory.js
+GET /angular-app/register/register-controller.js
+GET /angular-app/auth/auth-interceptor.js
+GET /angular-app/navigation-directive/navigation-directive.js
+GET /angular-app/app.js
+GET /angular-app/navigation-directive/navigation-directive.html
+GET /angular-app/main/main.html
+GET /
+GET /css/bootstrap.min.css
+GET /jquery/jquery-2.1.4.min.js
+GET /css/custom.css
+GET /node_modules/angular/angular.js
+GET /node_modules/angular-route/angular-route.js
+GET /node_modules/angular-jwt/dist/angular-jwt.js
+GET /angular-app/app.js
+GET /angular-app/hotel-list/hotel-list-controller.js
+GET /angular-app/hotel-display/hotel-display-controller.js
+GET /angular-app/hotel-data-factory/hotel-data-factory.js
+GET /angular-app/register/register-controller.js
+GET /angular-app/hotel-rating/hotel-rating-directive.js
+GET /angular-app/navigation-directive/navigation-directive.js
+GET /angular-app/login/login-controller.js
+GET /angular-app/auth/auth-factory.js
+GET /angular-app/auth/auth-interceptor.js
+GET /angular-app/navigation-directive/navigation-directive.html
+GET /angular-app/main/main.html
+GET /
+GET /css/bootstrap.min.css
+GET /css/custom.css
+GET /jquery/jquery-2.1.4.min.js
+GET /node_modules/angular-route/angular-route.js
+GET /node_modules/angular/angular.js
+GET /node_modules/angular-jwt/dist/angular-jwt.js
+GET /angular-app/app.js
+GET /angular-app/hotel-list/hotel-list-controller.js
+GET /angular-app/hotel-display/hotel-display-controller.js
+GET /angular-app/hotel-data-factory/hotel-data-factory.js
+GET /angular-app/register/register-controller.js
+GET /angular-app/hotel-rating/hotel-rating-directive.js
+GET /angular-app/navigation-directive/navigation-directive.js
+GET /angular-app/login/login-controller.js
+GET /angular-app/auth/auth-factory.js
+GET /angular-app/auth/auth-interceptor.js
+GET /angular-app/navigation-directive/navigation-directive.html
+GET /angular-app/main/main.html
+GET /
+GET /css/bootstrap.min.css
+GET /css/custom.css
+GET /jquery/jquery-2.1.4.min.js
+GET /node_modules/angular/angular.js
+GET /node_modules/angular-jwt/dist/angular-jwt.js
+GET /node_modules/angular-route/angular-route.js
+GET /angular-app/app.js
+GET /angular-app/hotel-list/hotel-list-controller.js
+GET /angular-app/hotel-display/hotel-display-controller.js
+GET /angular-app/hotel-data-factory/hotel-data-factory.js
+GET /angular-app/hotel-rating/hotel-rating-directive.js
+GET /angular-app/register/register-controller.js
+GET /angular-app/navigation-directive/navigation-directive.js
+GET /angular-app/login/login-controller.js
+GET /angular-app/auth/auth-interceptor.js
+GET /angular-app/auth/auth-factory.js
+GET /angular-app/navigation-directive/navigation-directive.html
+GET /angular-app/main/main.html
+GET /
+GET /
+GET /angular-app/hotel-display/hotel-display-controller.js
+GET /favicon.ico
+GET /jquery/jquery-2.1.4.min.js
+GET /angular-app/login/login-controller.js
+GET /angular-app/auth/auth-factory.js
+GET /angular-app/hotel-data-factory/hotel-data-factory.js
+GET /angular-app/app.js
+GET /node_modules/angular-route/angular-route.js
+GET /css/bootstrap.min.css
+GET /angular-app/navigation-directive/navigation-directive.js
+GET /angular-app/hotel-rating/hotel-rating-directive.js
+GET /angular-app/register/register-controller.js
+GET /node_modules/angular/angular.js
+GET /angular-app/auth/auth-interceptor.js
+GET /node_modules/angular-jwt/dist/angular-jwt.js
+GET /css/custom.css
+GET /angular-app/hotel-list/hotel-list-controller.js
+GET /angular-app/navigation-directive/navigation-directive.html
+GET /angular-app/main/main.html
+GET /
+GET /css/bootstrap.min.css
+GET /css/custom.css
+GET /jquery/jquery-2.1.4.min.js
+GET /node_modules/angular-route/angular-route.js
+GET /node_modules/angular/angular.js
+GET /node_modules/angular-jwt/dist/angular-jwt.js
+GET /angular-app/hotel-display/hotel-display-controller.js
+GET /angular-app/hotel-data-factory/hotel-data-factory.js
+GET /angular-app/hotel-list/hotel-list-controller.js
+GET /angular-app/app.js
+GET /angular-app/hotel-rating/hotel-rating-directive.js
+GET /angular-app/register/register-controller.js
+GET /angular-app/login/login-controller.js
+GET /angular-app/auth/auth-factory.js
+GET /angular-app/navigation-directive/navigation-directive.js
+GET /angular-app/auth/auth-interceptor.js
+GET /angular-app/navigation-directive/navigation-directive.html
+GET /angular-app/main/main.html
+Mongoose disconnected
+Mongoose disconnected through App termination (SIGTERM)

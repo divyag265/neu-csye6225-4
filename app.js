@@ -1,14 +1,25 @@
 require('./api/data/db.js');
 var express = require('express');
-var app = express();
 var path = require('path');
 var bodyParser = require('body-parser');
-
 var routes = require('./api/routes');
+var https=require('https');
+var fs = require('fs');
+var forward=require('http-port-forward');
+var http=require('http');
 
+var options ={
+ca: fs.readFileSync('./ssl/neu-csye6225-spring2017-team-6_com.ca-bundle'),
+key: fs.readFileSync('./ssl/private-key.pem'),
+cert: fs.readFileSync('./ssl/neu-csye6225-spring2017-team-6_com.crt')
+};
+
+var app=express();
 // Define the port to run on
 app.set('port', 3000);
 
+//var server=https.createServer(options,app);
+//app.listen(80);
 // Add middleware to console log every request
 app.use(function(req, res, next) {
   console.log(req.method, req.url);
@@ -26,9 +37,16 @@ app.use(bodyParser.json());
 
 // Add some routing
 app.use('/api', routes);
+var server=https.createServer(options,app).listen(443);
+
+var serr=http.createServer(function(req,res){
+res.writeHead(301,{"Location": "https://neu-csye6225-spring2017-team-6.com"});
+res.end();
+}).listen(80);
+
 
 // Listen for requests
-var server = app.listen(app.get('port'), function() {
-  var port = server.address().port;
-  console.log('Magic happens on port ' + port);
-});
+//var server = app.listen(80, function() {
+//var port = server.address().port;
+//console.log('Magic happens on port ' + port);
+//});
