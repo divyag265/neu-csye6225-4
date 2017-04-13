@@ -80,3 +80,5 @@ All the scripts required for the setup has been uploaded to git.
 2. Provided the functionality of browsing through the restaurants
 3. User can write and view other's reviews on restaurants.
 
+###CloudWatch
+•       Saved different levels of logs in cloudwatch
