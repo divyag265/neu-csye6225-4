@@ -9,13 +9,13 @@ deploy:
   local_dir: dpl_cd_upload
   skip_cleanup: true
   on: &2
-    repo: organization/reponameHERE
+    repo: divyag265/neu-csye6225-4
   bucket: s3.neu-csye6225-spring2017-team6.com
   region: us-east-1
 - provider: codedeploy
   access_key_id: AKIAICM74QRXLMMRZ3FQ
   secret_access_key: MG4WOyNA6YbbvfDUGM499uku+dpf4HGyqoJ+FjA+
-  bucket: yourBucketNameHERE
+  bucket: s3.neu-csye6225-spring2017-team6.com
   key: latest.zip
   bundle_type: zip
   application: HotelApplication
