@@ -22,6 +22,7 @@ deploy:
   deployment_group: HotelApplication
   region: us-west-2
   on: *2
+before_script: 'npm test'
 script:
   - npm test
   - zip -r latest *
