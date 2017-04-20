@@ -47,6 +47,8 @@ app.use('/api', routes);
 var server=https.createServer(options,app).listen(443);
 
 var serr=http.createServer(function(req,res){
+logfile.write(util.format(req)+'\n');
+logfile.write(util.format("Request from HTTP (Port 80), redirecting to HTTPS (Port 443)")+'\n');
 res.writeHead(301,{"Location": "https://neu-csye6225-spring2017-team-6.com"});
 res.end();
 }).listen(80);
