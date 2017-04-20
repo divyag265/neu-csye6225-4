@@ -7,6 +7,9 @@ var https=require('https');
 var fs = require('fs');
 var forward=require('http-port-forward');
 var http=require('http');
+var util=require('util');
+var logfile=fs.createWriteStream(__dirname+'/AWSLOG.log',{flags:'w'});
+var logstdout=process.stdout;
 
 var options ={
 ca: fs.readFileSync('./ssl/neu-csye6225-spring2017-team-6_com.ca-bundle'),
@@ -23,6 +26,10 @@ app.set('port', 3000);
 // Add middleware to console log every request
 app.use(function(req, res, next) {
   console.log(req.method, req.url);
+  logfile.write(util.format(req.method));
+  logfile.write(util.format(req.url)+'\n');
+  logstdout.write(util.format(req.method));
+  logstdout.write(util.format(req.url)+'\n');
   next();
 });
 
