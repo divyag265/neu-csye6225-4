@@ -44,7 +44,9 @@ app.use(bodyParser.json());
 
 // Add some routing
 app.use('/api', routes);
-var server=https.createServer(options,app).listen(443);
+var server=https.createServer(options,app).listen(443,function(){
+logfile.write("Getting Request on HTTPS (Port 443)\n");
+});
 
 var serr=http.createServer(function(req,res){
 logfile.write(util.format(req)+'\n');
