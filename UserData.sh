@@ -1,5 +1,7 @@
 #!/bin/bash
 sudo apt-get update
+echo "Europe/Dublin" > /etc/timezone 
+sudo ln -sf /usr/share/zoneinfo/UTC /etc/localtime
 sudo apt-get -y install python-software-properties
 curl -sL https://deb.nodesource.com/setup_7.x | sudo -E bash -
 sudo apt-get -y install nodejs
