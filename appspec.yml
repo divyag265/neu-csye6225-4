@@ -6,12 +6,6 @@ files:
   - source: salt/
     destination: /etc/hotelApplication/codedeploy/
 hooks:
-  BeforeInstall:
-    - location: deploy_hooks/before_install.sh
-    -    runas: root
-  ApplicationStart:
-    - location: deploy_hooks/application_start.sh
-    -      runas: root
-  ValidateService:
-    - location: deploy_hooks/verify_service.sh
+  AfterInstall:
+    - location: deploy_hooks/afterinstall.sh
     - runas: root
