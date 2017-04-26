@@ -20,7 +20,7 @@ deploy:
   bundle_type: zip
   application: HotelApplication
   deployment_group: HotelApplication
-  region: us-east-1
+  region: us-west-2
   on: *2
 before_script: 'npm test'
 script:
