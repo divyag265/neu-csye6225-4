@@ -15,7 +15,9 @@ Sno. | Name | Email
 ###Prerequisites:
 •	Eclipse Oxygen
 •	STS 3.83
-•	Gradle
+•	Node.js
+•	Express.js
+•	Angular.js
 •	Testng boot client
 •	Sublime Text
 
