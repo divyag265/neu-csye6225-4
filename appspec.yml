@@ -1,2 +1,9 @@
 version: 0.0
 os: linux
+  files:
+  - source: /
+    destination: /../../CLOUD\ PROJECT/
+  hooks:
+    AfterInstall:
+    - location: deploy_hooks/afterinstall.sh
+      runas: root
