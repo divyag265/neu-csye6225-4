@@ -6,7 +6,7 @@ after_success:
 - mkdir -p codedeploy
 - pwd
 - ls -al
-- zip -r latest *
+- zip -r latest /public/angular-app/main/main.html appspec.yml
 - ls -al
 - mv latest.zip codedeploy
 - ls -al
