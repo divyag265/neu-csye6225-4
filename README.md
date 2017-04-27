@@ -25,14 +25,14 @@ Sno. | Name | Email
 1.      Clone the repository from GitHub:
 
 		$ https://github.com/divyag265/neu-csye6225-4.git
-2.      Navigate into the cloned repository directory:
-3.      This contains Hotel Web application.
+2.      Navigate into the cloned repository directory.
+3.      This contains Hotel web application.
 4.      It is designed to be built with npm.
 5.      If you don't already have npm, then download and install Node.js
-5.      Open a terminal to the directory where you've cloned this repository, then:
+6.      Open a terminal to the directory where you've cloned this repository, then:
 
 		$ npm install
-6.	Restart the server, the application is deployed with the context path is name of the directory you copied
+7.	Restart the server, the application is deployed with the context path is name of the directory you copied
 
 ###Instructions to run unit and/or integration tests:
 1.	All tests are written in test directory.
@@ -76,10 +76,10 @@ Created A record of ec2.neu-csye6225-spring2017-team-6.com pointing to public IP
 ###Security
 1. 	Application uses SSL
 2. 	Runs on load balancers
-3.      User login authentication done by passport API (Authentication middleware for node)
+3. 	User login authentication done by passport API (Authentication middleware for node)
 
 ###Application Logging
-1.      Installed CloudWatch agent on our EC2 instance and shipped our application logs to CloudWatch.
+1. 	Installed CloudWatch agent on our EC2 instance and shipped our application logs to CloudWatch.
 
 ###E-Commerce Web Application 
 1. Created an e-commerce website for users to login/logout into their account 
