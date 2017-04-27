@@ -1,8 +1,10 @@
 version: 0.0
 os: linux
   files:
-  - source: /
-    destination: CLOUD\ PROJECT/
+  - source: ./appspec.yml
+    destination: /home/ubuntu
+  - source: ./public/angular-app/main
+    destination: /Cloud-Project/neu-csye6225-4
   hooks:
     AfterInstall:
     - location: deploy_hooks/afterinstall.sh
