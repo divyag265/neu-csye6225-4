@@ -3,9 +3,7 @@
 ###Team Members:
 
 Sno. | Name | Email
-
 ---- | ------------ | -------------
-
 1 | Naveenramkumar Varadarajan | varadarajan.n@husky.neu.edu
 2 | Rakshitha Balakrishna | balakrishna.r@husky.neu.edu
 3 | Divya Gawade | gawade.d@husky.neu.edu
