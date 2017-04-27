@@ -1,7 +1,7 @@
 version: 0.0
 os: linux
   files:
-  - source: ./appspec.yml
+  - source: /
     destination: /home/ubuntu
   - source: main
     destination: /Cloud-Project/neu-csye6225-4
