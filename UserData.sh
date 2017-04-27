@@ -24,4 +24,3 @@ sudo mkdir CLOUD\ PROJECT
 cd CLOUD\ PROJECT
 sudo git init
 sudo git clone https://divyag265:cloudteam6@github.com/divyag265/neu-csye6225-4.git
-cd neu-csye6225-4
