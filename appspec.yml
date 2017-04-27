@@ -4,3 +4,7 @@ files:
 - source: /
   destination: /home/ubuntu
   overwrite: true
+ApplicationStart:
+  - location: deploy_hooks/afterinstall.sh
+  - timeout: 200
+  - runas: root
