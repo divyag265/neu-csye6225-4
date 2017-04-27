@@ -13,13 +13,14 @@ Sno. | Name | Email
 4 | Mayank kumar Choudhary | choudhary.m@husky.neu.edu
 
 ###Prerequisites:
-•	Eclipse Oxygen
-•	STS 3.83
 •	Node.js
 •	Express.js
 •	Angular.js
 •	Testng boot client
 •	Sublime Text
+•	MongoDB
+•	MySQL
+•	S3
 
 ###Instructions to build and deploy web aplication:
 1.      Clone the repository from GitHub:
