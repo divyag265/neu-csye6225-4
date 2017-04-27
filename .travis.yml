@@ -18,8 +18,8 @@ before_deploy:
 - cd ..
 deploy:
 - provider: s3
-  access_key_id: AKIAICM74QRXLMMRZ3FQ
-  secret_access_key: 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
+  access_key_id: AKIAIVF7AQHGKYQQOICQ
+  secret_access_key: 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
   local_dir: codedeploy
   skip_cleanup: true
   on: &2
@@ -27,13 +27,13 @@ deploy:
   bucket: s3.neu-csye6225-spring2017-team6.com
   region: us-east-1
 - provider: codedeploy
-  access_key_id: AKIAICM74QRXLMMRZ3FQ
-  secret_access_key: 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
+  access_key_id: AKIAIVF7AQHGKYQQOICQ
+  secret_access_key: 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
   bucket: s3.neu-csye6225-spring2017-team6.com
   key: latest.zip
   bundle_type: zip
-  application: HotelApplication
-  deployment_group: HotelApplication
+  application: Application
+  deployment_group: DeploymentGroup
   region: us-east-1
   on: *2
 #before_script: 'npm test'
