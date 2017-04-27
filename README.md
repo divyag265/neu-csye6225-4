@@ -75,7 +75,7 @@ Created A record of ec2.neu-csye6225-spring2017-team-6.com pointing to public IP
 
 ###Security
 1. 	Application uses SSL
-2.      Runs on load balancers
+2. 	Runs on load balancers
 3.      User login authentication done by passport API (Authentication middleware for node)
 
 ###Application Logging
