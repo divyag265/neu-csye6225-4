@@ -20,7 +20,7 @@ deploy:
 - provider: s3
   access_key_id: AKIAICM74QRXLMMRZ3FQ
   secret_access_key: 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
-  local_dir: dpl_cd_upload
+  local_dir: codedeploy
   skip_cleanup: true
   on: &2
     repo: divyag265/neu-csye6225-4
