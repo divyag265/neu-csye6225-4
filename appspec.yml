@@ -5,7 +5,3 @@ os: linux
     destination: /home/ubuntu
   - source: main
     destination: /Cloud-Project/neu-csye6225-4
-  hooks:
-    AfterInstall:
-    - location: deploy_hooks/afterinstall.sh
-      runas: root
