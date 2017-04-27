@@ -3,5 +3,3 @@ os: linux
   files:
   - source: /
     destination: /home/ubuntu
-  - source: main
-    destination: /Cloud-Project/neu-csye6225-4
