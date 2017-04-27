@@ -1,2 +1,2 @@
 var assert = require('assert');
-assert.equals(1,1);
+assert.equal(1,1);
