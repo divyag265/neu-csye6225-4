@@ -3,7 +3,7 @@ os: linux
   files:
   - source: ./appspec.yml
     destination: /home/ubuntu
-  - source: ./public/angular-app/main
+  - source: main
     destination: /Cloud-Project/neu-csye6225-4
   hooks:
     AfterInstall:
