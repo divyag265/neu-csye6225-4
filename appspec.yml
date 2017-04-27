@@ -4,4 +4,3 @@ files:
 - source: /
   destination: /home/ubuntu
   overwrite: true
-  
