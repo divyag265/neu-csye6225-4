@@ -2,6 +2,20 @@ language: node_js
 cache:
   directories:
     - node_modules
+after_success:
+- mkdir -p codedeploy
+- pwd
+- ls -al
+- zip -r latest *
+- ls -al
+- mv latest.zip codedeploy
+- ls -al
+- pwd
+- cd codedeploy
+- ls -al
+- pwd
+before_deploy:
+- cd ..
 deploy:
 - provider: s3
   access_key_id: AKIAICM74QRXLMMRZ3FQ
@@ -22,9 +36,9 @@ deploy:
   deployment_group: HotelApplication
   region: us-east-1
   on: *2
-before_script: 'npm test'
-script:
-  - npm test
-  - zip -r latest *
-  - mkdir -p dpl_cd_upload
-  - mv latest.zip dpl_cd_upload/latest.zip
+#before_script: 'npm test'
+#script:
+#  - npm test
+#  - zip -r latest *
+#  - mkdir -p dpl_cd_upload
+#  - mv latest.zip dpl_cd_upload/latest.zip
